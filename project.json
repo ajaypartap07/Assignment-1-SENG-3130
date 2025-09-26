@@ -1,0 +1,17 @@
+{
+  "id": "Assignment 1",
+  "documents": [
+    "BRS.json"
+  ],
+  "traceability": {
+    "reference": {
+      "name": "Reference",
+      "source": "References",
+      "target": "Referenced by"
+    }
+  },
+  "metadata": {
+    "format": "2.20",
+    "saveHistory": true
+  }
+}
