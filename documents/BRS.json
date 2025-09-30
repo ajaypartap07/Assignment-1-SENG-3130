@@ -9,7 +9,7 @@
     "email": "ludhera17@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2025-09-26T18:25:01.282Z",
+  "lastChangedOn": "2025-09-30T04:35:17.698Z",
   "lastChangedBy": {
     "name": "Ajay Ludher",
     "email": "ludhera17@mytru.ca",
@@ -24,7 +24,20 @@
         {
           "id": "33",
           "guid": "f86c1d51-74bc-4834-93df-fd8f10148cb3",
-          "text": "<p><span>&lt;The business requirements provide the foundation and reference for all detailed requirements development. You may gather business requirements from the customer or development organization’s senior management, an executive sponsor, a project visionary, product owner, product manager, the marketing department, or other stakeholders who have a clear sense of why the project is being undertaken and the ultimate value it will provide, both to the business and to its customers.&gt;</span></p>"
+          "text": "<p dir=\"ltr\"><span style=\"text-decoration: none; vertical-align: baseline;\">The Smart Waste Management and Recycling System (SWMRS) is being developed in response to the city’s growing need for a more efficient, cost-effective, and environmentally responsible waste management solution. Stakeholders including the city’s sanitation management team, city administrators/officials, waste collection contractors and residents have identified persistent challenges such as frequent missed pickups, overflowing bins, low recycling participation, and inefficient route planning. These issues result in higher operational costs, environmental concerns, and resident dissatisfaction.</span></p><p dir=\"ltr\"><span style=\"text-decoration: none; vertical-align: baseline;\">The primary business requirement for SWMRS is to modernize the city’s waste management process by integrating real-time data, IoT sensor technology, and route optimization tools to improve efficiency and service delivery. The system must enable accurate tracking of costs, fuel usage, and worker performance while also encouraging resident engagement through features such as a recycling rewards program and mobile reporting app. By meeting these requirements, SWMRS will reduce costs, improve service reliability, increase recycling participation, and support the city’s broader sustainability goals.</span></p>",
+          "history": [
+            {
+              "attributesChanged": {
+                "text": "<p><span>&lt;The business requirements provide the foundation and reference for all detailed requirements development. You may gather business requirements from the customer or development organization’s senior management, an executive sponsor, a project visionary, product owner, product manager, the marketing department, or other stakeholders who have a clear sense of why the project is being undertaken and the ultimate value it will provide, both to the business and to its customers.&gt;</span></p>"
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "ludhera17@mytru.ca",
+                "name": "Ajay Ludher"
+              },
+              "changedOn": "2025-09-30T04:33:50.619Z"
+            }
+          ]
         },
         {
           "id": "34",
@@ -34,7 +47,20 @@
             {
               "id": "35",
               "guid": "cb00a150-83e2-4b4c-8e1d-05b026820054",
-              "text": "<p><span>&lt;Summarize the rationale for the new product. Provide a general description of the history or situation that leads to the recognition that this product should be built.&gt;</span></p>"
+              "text": "<p><span style=\"text-decoration: none; vertical-align: baseline;\">The Smart Waste Management and Recycling System (SWMRS) is being developed to address ongoing inefficiencies in the city’s waste management services. The current system struggles with frequent missed pickups, high operational costs, low recycling participation, and a lack of real-time visibility into collection activities. SWMRS aims to solve these challenges by improving efficiency, reducing costs, and encouraging greater resident engagement in recycling.</span></p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><span>&lt;Summarize the rationale for the new product. Provide a general description of the history or situation that leads to the recognition that this product should be built.&gt;</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher"
+                  },
+                  "changedOn": "2025-09-30T04:34:06.483Z"
+                }
+              ]
             }
           ]
         },
@@ -46,37 +72,20 @@
             {
               "id": "37",
               "guid": "17da4d3a-3c2b-42dc-bd8b-6e781b4f3229",
-              "text": "<p><span>&lt;Describe the business problem that is being solved or the business opportunity that exists. Describe the market in which a commercial product will be competing or the environment in which an information system will be used. This may include a brief comparative evaluation of existing products and potential solutions, indicating why the proposed product is attractive. Identify the problems that cannot currently be solved without the product, and how the product fits in with market trends or corporate strategic directions.&nbsp;</span></p>"
-            },
-            {
-              "id": "38",
-              "guid": "e3b118a3-40bd-482a-ba99-c674d6abf4b5",
-              "text": "<p><span>This is a good template for a problem statement:</span></p>"
-            },
-            {
-              "id": "39",
-              "guid": "4a1094e4-ccf6-4337-bdda-51acd21a2af2",
-              "text": "<p><span style=\"color:windowtext;\">Situation<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style=\"color:windowtext;\">Describe the background, context, and environment.</span></p>"
-            },
-            {
-              "id": "40",
-              "guid": "a909528b-ae0a-422e-bd7a-41daf87a1088",
-              "text": "<p><span style=\"color:windowtext;\">Problem</span><span style=\"color:windowtext;\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Describe the business problem (or problems) as you now understand it</span></p>"
-            },
-            {
-              "id": "41",
-              "guid": "b0be700a-21eb-4b12-8d27-09bea92ec6f9",
-              "text": "<p><span style=\"color:windowtext;\">Implication</span><span style=\"color:windowtext;\"><span>&nbsp;&nbsp;&nbsp; </span>Describe the likely results if the problem isn’t solved.</span></p>"
-            },
-            {
-              "id": "42",
-              "guid": "44aa8665-899e-44d9-924f-c23567eeb5d8",
-              "text": "<p><span style=\"color:windowtext;\">Benefit</span><span style=\"color:windowtext;\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>State the business value of solving the problem.</span></p>"
-            },
-            {
-              "id": "43",
-              "guid": "e7fbd31e-81c2-4d86-9049-4010553b2b3c",
-              "text": "<p><span style=\"color:windowtext;\">Vision</span><span style=\"color:windowtext;\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Describe what the desired future state would look like.&gt;</span></p>"
+              "text": "<p><span style=\"text-decoration: none; vertical-align: baseline;\">The city’s sanitation manager has come to our business analyst to attempt to improve the city’s waste management. Currently, the system faces many challenges, including low recycling participation, inefficient collection routes that often result in missed pickups, and bins that frequently overflow due to infrequent service. Residents are frustrated with these ongoing issues, and the city relies heavily on manual reporting, driver accountability, and resident complaints to track and resolve problems. Monthly reports are still created manually, and the lack of real-time data makes it difficult to coordinate with drivers, track performance, or engage residents effectively. If these issues are not addressed, the city will continue to face rising costs, environmental concerns, and reduced public satisfaction with municipal services. To solve these problems, a Smart Waste Management and Recycling System (SWMRS) will be introduced. This system will provide real-time tracking of costs, fuel usage, and worker performance, while sensors in bins will alert drivers when they are full and GPS tracking will optimize truck routes and reduce delays. Additionally, a recycling rewards program and mobile app will encourage resident participation, allow users to report issues directly, and give city officials the ability to adjust routes and confirm pickups in real time. Implementing SWMRS will make waste management significantly more efficient, save the city money, improve driver productivity, and increase resident satisfaction. Ultimately, it will create a connected, data-driven waste management system that engages the community, reduces environmental impact, and builds a cleaner, more sustainable future for the city.</span></p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><span>&lt;Describe the business problem that is being solved or the business opportunity that exists. Describe the market in which a commercial product will be competing or the environment in which an information system will be used. This may include a brief comparative evaluation of existing products and potential solutions, indicating why the proposed product is attractive. Identify the problems that cannot currently be solved without the product, and how the product fits in with market trends or corporate strategic directions.&nbsp;</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher"
+                  },
+                  "changedOn": "2025-09-30T04:34:40.207Z"
+                }
+              ]
             }
           ]
         },
