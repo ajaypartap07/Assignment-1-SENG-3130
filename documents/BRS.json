@@ -9,7 +9,7 @@
     "email": "ludhera17@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2025-09-30T04:35:17.698Z",
+  "lastChangedOn": "2025-09-30T06:09:40.777Z",
   "lastChangedBy": {
     "name": "Ajay Ludher",
     "email": "ludhera17@mytru.ca",
@@ -24,7 +24,7 @@
         {
           "id": "33",
           "guid": "f86c1d51-74bc-4834-93df-fd8f10148cb3",
-          "text": "<p dir=\"ltr\"><span style=\"text-decoration: none; vertical-align: baseline;\">The Smart Waste Management and Recycling System (SWMRS) is being developed in response to the city’s growing need for a more efficient, cost-effective, and environmentally responsible waste management solution. Stakeholders including the city’s sanitation management team, city administrators/officials, waste collection contractors and residents have identified persistent challenges such as frequent missed pickups, overflowing bins, low recycling participation, and inefficient route planning. These issues result in higher operational costs, environmental concerns, and resident dissatisfaction.</span></p><p dir=\"ltr\"><span style=\"text-decoration: none; vertical-align: baseline;\">The primary business requirement for SWMRS is to modernize the city’s waste management process by integrating real-time data, IoT sensor technology, and route optimization tools to improve efficiency and service delivery. The system must enable accurate tracking of costs, fuel usage, and worker performance while also encouraging resident engagement through features such as a recycling rewards program and mobile reporting app. By meeting these requirements, SWMRS will reduce costs, improve service reliability, increase recycling participation, and support the city’s broader sustainability goals.</span></p>",
+          "text": "<p dir=\"ltr\">The Smart Waste Management and Recycling System (SWMRS) is designed to meet the city’s demand for a more efficient, cost-effective approach to waste handling that also supports environmental goals. Stakeholders, such as sanitation managers, city officials, contractors, and residents, have pointed out ongoing problems like missed pickups, overflowing bins, low recycling rates, and poor route planning. These lead to higher costs, environmental strain, and unhappy residents. To tackle this, SWMRS will incorporate real-time data, IoT sensors, optimized routing, and features to engage residents, including rewards programs and mobile reporting. Fulfilling these requirements will enhance service quality, cut expenses, boost recycling, and align with the city’s sustainability priorities.</p>",
           "history": [
             {
               "attributesChanged": {
@@ -36,6 +36,17 @@
                 "name": "Ajay Ludher"
               },
               "changedOn": "2025-09-30T04:33:50.619Z"
+            },
+            {
+              "attributesChanged": {
+                "text": "<p dir=\"ltr\"><span style=\"text-decoration: none; vertical-align: baseline;\">The Smart Waste Management and Recycling System (SWMRS) is being developed in response to the city’s growing need for a more efficient, cost-effective, and environmentally responsible waste management solution. Stakeholders including the city’s sanitation management team, city administrators/officials, waste collection contractors and residents have identified persistent challenges such as frequent missed pickups, overflowing bins, low recycling participation, and inefficient route planning. These issues result in higher operational costs, environmental concerns, and resident dissatisfaction.</span></p><p dir=\"ltr\"><span style=\"text-decoration: none; vertical-align: baseline;\">The primary business requirement for SWMRS is to modernize the city’s waste management process by integrating real-time data, IoT sensor technology, and route optimization tools to improve efficiency and service delivery. The system must enable accurate tracking of costs, fuel usage, and worker performance while also encouraging resident engagement through features such as a recycling rewards program and mobile reporting app. By meeting these requirements, SWMRS will reduce costs, improve service reliability, increase recycling participation, and support the city’s broader sustainability goals.</span></p>"
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "ludhera17@mytru.ca",
+                "name": "Ajay Ludher"
+              },
+              "changedOn": "2025-09-30T05:02:44.742Z"
             }
           ]
         },
@@ -47,7 +58,7 @@
             {
               "id": "35",
               "guid": "cb00a150-83e2-4b4c-8e1d-05b026820054",
-              "text": "<p><span style=\"text-decoration: none; vertical-align: baseline;\">The Smart Waste Management and Recycling System (SWMRS) is being developed to address ongoing inefficiencies in the city’s waste management services. The current system struggles with frequent missed pickups, high operational costs, low recycling participation, and a lack of real-time visibility into collection activities. SWMRS aims to solve these challenges by improving efficiency, reducing costs, and encouraging greater resident engagement in recycling.</span></p>",
+              "text": "<p>The Smart Waste Management and Recycling System (SWMRS) is being developed to fix persistent issues in the city’s waste services. The current system deals with too many missed pickups, high running costs, limited recycling involvement, and no clear view of daily operations. SWMRS will step in by streamlining processes, lowering expenses, and getting residents more involved in recycling efforts.</p>",
               "history": [
                 {
                   "attributesChanged": {
@@ -59,6 +70,17 @@
                     "name": "Ajay Ludher"
                   },
                   "changedOn": "2025-09-30T04:34:06.483Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><span style=\"text-decoration: none; vertical-align: baseline;\">The Smart Waste Management and Recycling System (SWMRS) is being developed to address ongoing inefficiencies in the city’s waste management services. The current system struggles with frequent missed pickups, high operational costs, low recycling participation, and a lack of real-time visibility into collection activities. SWMRS aims to solve these challenges by improving efficiency, reducing costs, and encouraging greater resident engagement in recycling.</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher"
+                  },
+                  "changedOn": "2025-09-30T05:02:58.059Z"
                 }
               ]
             }
@@ -72,7 +94,7 @@
             {
               "id": "37",
               "guid": "17da4d3a-3c2b-42dc-bd8b-6e781b4f3229",
-              "text": "<p><span style=\"text-decoration: none; vertical-align: baseline;\">The city’s sanitation manager has come to our business analyst to attempt to improve the city’s waste management. Currently, the system faces many challenges, including low recycling participation, inefficient collection routes that often result in missed pickups, and bins that frequently overflow due to infrequent service. Residents are frustrated with these ongoing issues, and the city relies heavily on manual reporting, driver accountability, and resident complaints to track and resolve problems. Monthly reports are still created manually, and the lack of real-time data makes it difficult to coordinate with drivers, track performance, or engage residents effectively. If these issues are not addressed, the city will continue to face rising costs, environmental concerns, and reduced public satisfaction with municipal services. To solve these problems, a Smart Waste Management and Recycling System (SWMRS) will be introduced. This system will provide real-time tracking of costs, fuel usage, and worker performance, while sensors in bins will alert drivers when they are full and GPS tracking will optimize truck routes and reduce delays. Additionally, a recycling rewards program and mobile app will encourage resident participation, allow users to report issues directly, and give city officials the ability to adjust routes and confirm pickups in real time. Implementing SWMRS will make waste management significantly more efficient, save the city money, improve driver productivity, and increase resident satisfaction. Ultimately, it will create a connected, data-driven waste management system that engages the community, reduces environmental impact, and builds a cleaner, more sustainable future for the city.</span></p>",
+              "text": "<p>At present, the waste management setup struggles with low recycling involvement, routes that often skip pickups, and bins that overflow from irregular servicing. The city depends a lot on manual reports and complaints from residents to manage issues, which makes coordinating drivers and tracking performance tough without real-time information. If this situation remains unaddressed, costs will keep climbing, environmental problems will grow, and residents will stay frustrated with city services. SWMRS offers a way forward by adding sensor alerts, GPS for better route planning, a mobile app for reporting, and rewards to motivate recycling. With these changes, the system will run more smoothly, save money, improve how drivers work, and raise resident satisfaction, paving the way for a more sustainable city.</p>",
               "history": [
                 {
                   "attributesChanged": {
@@ -84,6 +106,17 @@
                     "name": "Ajay Ludher"
                   },
                   "changedOn": "2025-09-30T04:34:40.207Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><span style=\"text-decoration: none; vertical-align: baseline;\">The city’s sanitation manager has come to our business analyst to attempt to improve the city’s waste management. Currently, the system faces many challenges, including low recycling participation, inefficient collection routes that often result in missed pickups, and bins that frequently overflow due to infrequent service. Residents are frustrated with these ongoing issues, and the city relies heavily on manual reporting, driver accountability, and resident complaints to track and resolve problems. Monthly reports are still created manually, and the lack of real-time data makes it difficult to coordinate with drivers, track performance, or engage residents effectively. If these issues are not addressed, the city will continue to face rising costs, environmental concerns, and reduced public satisfaction with municipal services. To solve these problems, a Smart Waste Management and Recycling System (SWMRS) will be introduced. This system will provide real-time tracking of costs, fuel usage, and worker performance, while sensors in bins will alert drivers when they are full and GPS tracking will optimize truck routes and reduce delays. Additionally, a recycling rewards program and mobile app will encourage resident participation, allow users to report issues directly, and give city officials the ability to adjust routes and confirm pickups in real time. Implementing SWMRS will make waste management significantly more efficient, save the city money, improve driver productivity, and increase resident satisfaction. Ultimately, it will create a connected, data-driven waste management system that engages the community, reduces environmental impact, and builds a cleaner, more sustainable future for the city.</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher"
+                  },
+                  "changedOn": "2025-09-30T05:09:14.864Z"
                 }
               ]
             }
@@ -97,7 +130,20 @@
             {
               "id": "45",
               "guid": "d3b8fa28-ca41-4da6-89cc-12eb1c7c8943",
-              "text": "<p><span>&lt;Describe the important business objectives of the product in a way that is quantitative and measurable. Focus on the value provided to the business, including estimates of revenue or cost savings, return on investment analysis, or target release dates.&gt;</span></p>"
+              "text": "<p>The primary business objectives of the Smart Waste Management and Recycling System (SWMRS) are as follows:</p><ul><li>Achieve a 20% reduction in overall waste collection operational costs by optimizing route planning and collection scheduling.</li><li>Increase recycling participation rates among residents by 30% through integrated rewards programs and educational incentives.</li><li>Decrease the rate of missed waste pickups by 15% by leveraging real-time bin monitoring and notifications.</li><li>Reduce the carbon footprint of waste collection vehicles by 10% through efficient routing and minimized travel distances.</li><li>Enhance transparency and tracking of fuel consumption, worker performance, and service reliability metrics to support ongoing improvement.</li></ul>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><span>&lt;Describe the important business objectives of the product in a way that is quantitative and measurable. Focus on the value provided to the business, including estimates of revenue or cost savings, return on investment analysis, or target release dates.&gt;</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher"
+                  },
+                  "changedOn": "2025-09-30T05:25:38.563Z"
+                }
+              ]
             }
           ]
         },
@@ -109,7 +155,20 @@
             {
               "id": "47",
               "guid": "54f728f2-b2fa-4f17-95e8-7ecf4cce0efe",
-              "text": "<p><span>&lt; Determine how success will be defined and measured for this product. Describe the factors that are likely to have the greatest impact on achieving that success. Include things within the organization’s control as well as external factors. Establish measurable criteria to assess whether the business objectives have been met or whether the trends are moving in the desired direction toward the goal.&gt;</span></p>"
+              "text": "<p>Success for SWMRS will be measured by the following criteria:</p><ul><li>Achieving at least a 15% reduction in missed pickups, monitored through system logs and collection records.</li><li>Realizing a 30% increase in resident participation in recycling programs, evaluated using app engagement data and the volume of materials diverted from landfill.</li><li>Attaining a minimum 20% cost savings in waste collection operations compared to baseline figures, verified through periodic financial audits.</li><li>Recording a 10% decrease in carbon emissions from collection vehicle routes, based on GPS routing data and emissions calculations.</li><li>Demonstrating positive trends in resident satisfaction, assessed through routine surveys and reductions in complaint resolution times.</li></ul>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><span>&lt; Determine how success will be defined and measured for this product. Describe the factors that are likely to have the greatest impact on achieving that success. Include things within the organization’s control as well as external factors. Establish measurable criteria to assess whether the business objectives have been met or whether the trends are moving in the desired direction toward the goal.&gt;</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher"
+                  },
+                  "changedOn": "2025-09-30T05:26:46.889Z"
+                }
+              ]
             }
           ]
         },
@@ -121,47 +180,201 @@
             {
               "id": "49",
               "guid": "ff9140c5-7459-448a-a5ac-b05df755742c",
-              "text": "<p><span>&lt;Write a concise vision statement that summarizes the purpose and intent of the new product and describes what the world will be like when it includes the product. The vision statement should reflect a balanced view that will satisfy the needs of diverse stakeholders as well as those of the developing organization. The vision should be grounded in the realities of existing or anticipated customer markets, enterprise architectures, organizational strategic directions, and cost and resource limitations.</span></p>"
-            },
-            {
-              "id": "50",
-              "guid": "044d58f3-b8af-4b03-a25e-e1a1c44627c0",
-              "text": "<p><span>This is a good template for a vision statement:</span></p>"
+              "text": "<p>The vision statement summarizes the purpose and intent of the Smart Waste Management and Recycling System (SWMRS) which is as follows:</p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><span>&lt;Write a concise vision statement that summarizes the purpose and intent of the new product and describes what the world will be like when it includes the product. The vision statement should reflect a balanced view that will satisfy the needs of diverse stakeholders as well as those of the developing organization. The vision should be grounded in the realities of existing or anticipated customer markets, enterprise architectures, organizational strategic directions, and cost and resource limitations.</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher"
+                  },
+                  "changedOn": "2025-09-30T05:50:59.104Z"
+                }
+              ]
             },
             {
               "id": "51",
               "guid": "a00f55b1-e62d-4182-a297-61a5cfc4a4a1",
-              "text": "<p><strong><span style=\"color:windowtext;\">For<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></strong><span style=\"color:windowtext;\">target customer</span></p>"
+              "text": "<p><strong><span style=\"color:windowtext;\">For&nbsp;</span></strong>city administrators, sanitation staff, waste collection contractors, and residents</p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">For<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></strong><span style=\"color:windowtext;\">target customer</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher"
+                  },
+                  "changedOn": "2025-09-30T05:35:45.995Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">For<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span></strong>city administrators, sanitation staff, waste collection contractors, and residents</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher"
+                  },
+                  "changedOn": "2025-09-30T05:44:24.234Z"
+                }
+              ]
             },
             {
               "id": "52",
               "guid": "0ba3fe82-dc13-4dcd-8ee2-ed48d3d5cf6f",
-              "text": "<p><strong><span style=\"color:windowtext;\">Who<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></strong><span style=\"color:windowtext;\">statement of the need or opportunity</span></p>"
+              "text": "<p><strong><span style=\"color:windowtext;\">Who<span>&nbsp;</span></span></strong>require an efficient, cost-effective, and environmentally sustainable waste management solution,</p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">Who<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></strong><span style=\"color:windowtext;\">statement of the need or opportunity</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher"
+                  },
+                  "changedOn": "2025-09-30T05:38:54.310Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">Who<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span></strong>require an efficient, cost-effective, and environmentally sustainable waste management solution,</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher"
+                  },
+                  "changedOn": "2025-09-30T05:44:19.171Z"
+                }
+              ]
             },
             {
               "id": "53",
               "guid": "39d908ba-432e-41f7-b6e0-95166d6419d6",
-              "text": "<p><strong><span style=\"color:windowtext;\">The<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></strong><span style=\"color:windowtext;\">product name</span></p>"
+              "text": "<p><strong><span style=\"color:windowtext;\">The&nbsp;</span></strong>Smart Waste Management and Recycling System (SWMRS)</p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">The<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></strong><span style=\"color:windowtext;\">product name</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher"
+                  },
+                  "changedOn": "2025-09-30T05:39:08.816Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">The<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span></strong>Smart Waste Management and Recycling System (SWMRS)</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher"
+                  },
+                  "changedOn": "2025-09-30T05:44:10.797Z"
+                }
+              ]
             },
             {
               "id": "54",
               "guid": "f1892338-fb7f-4813-8618-b1483651acc0",
-              "text": "<p><strong><span style=\"color:windowtext;\">Is<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></strong><span style=\"color:windowtext;\">product category</span></p>"
+              "text": "<p><strong><span style=\"color:windowtext;\">Is&nbsp;</span></strong><span style=\"color:windowtext;\">a comprehensive, IoT-enabled smart waste management system</span></p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">Is<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></strong><span style=\"color:windowtext;\">product category</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher"
+                  },
+                  "changedOn": "2025-09-30T05:39:26.230Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">Is<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span></strong><span style=\"color:windowtext;\">a comprehensive, IoT-enabled smart waste management system</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher"
+                  },
+                  "changedOn": "2025-09-30T05:44:06.518Z"
+                }
+              ]
             },
             {
               "id": "55",
               "guid": "9bd457c6-5947-4caa-8d05-68cbd6f6330a",
-              "text": "<p><strong><span style=\"color:windowtext;\">That<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></strong><span style=\"color:windowtext;\">major capabilities, key benefit, compelling reason to buy or use</span></p>"
+              "text": "<p><strong><span style=\"color:windowtext;\">That<span>&nbsp;</span></span></strong>provides real-time data integration, optimized route planning, and resident engagement tools to reduce costs, improve service reliability, and increase recycling rates.</p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">That<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></strong><span style=\"color:windowtext;\">major capabilities, key benefit, compelling reason to buy or use</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher"
+                  },
+                  "changedOn": "2025-09-30T05:41:48.740Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">That<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span></strong>provides real-time data integration, optimized route planning, and resident engagement tools to reduce costs, improve service reliability, and increase recycling rates.</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher"
+                  },
+                  "changedOn": "2025-09-30T05:44:01.765Z"
+                }
+              ]
             },
             {
               "id": "56",
               "guid": "c20496a0-b26f-4673-b0e3-3b6b273e1f0b",
-              "text": "<p><strong><span style=\"color:windowtext;\">Unlike</span></strong><span style=\"color:windowtext;\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>primary competitive alternative, current system, current business process</span></p>"
+              "text": "<p><strong><span style=\"color:windowtext;\">Unlike</span></strong><span style=\"color:windowtext;\"><span> </span>current manual and fixed-schedule waste collection processes,</span></p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">Unlike</span></strong><span style=\"color:windowtext;\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>primary competitive alternative, current system, current business process</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher"
+                  },
+                  "changedOn": "2025-09-30T05:43:51.858Z"
+                }
+              ]
             },
             {
               "id": "57",
               "guid": "5e04b34f-6c20-4e72-aa15-39e8a5f233c9",
-              "text": "<p><strong><span style=\"color:windowtext;\">Our product</span></strong><span style=\"color:windowtext;\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>statement of primary differentiation and advantages of new product</span><span style=\"color:windowtext;\">&gt;</span></p>"
+              "text": "<p><strong><span style=\"color:windowtext;\">Our product</span></strong><span style=\"color:windowtext;\"><span> SWMRS utilizes sensor technology, dynamic routing, and rewards programs to deliver measurable operational efficiencies and environmental benefits.</span></span></p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">Our product</span></strong><span style=\"color:windowtext;\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>statement of primary differentiation and advantages of new product</span><span style=\"color:windowtext;\">&gt;</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher"
+                  },
+                  "changedOn": "2025-09-30T05:45:00.577Z"
+                }
+              ]
             }
           ]
         },
@@ -173,7 +386,20 @@
             {
               "id": "59",
               "guid": "35c51737-e135-4fe4-a72a-44e7425dafa2",
-              "text": "<p><span>&lt;Summarize the major business risks associated with developing this product, such as marketplace competition, timing issues, user acceptance, implementation issues, or possible negative impacts on the business. Estimate the severity of the risks and identify any risk mitigation actions that could be taken.&gt;</span></p>"
+              "text": "<p>Several business risks are associated with the development and deployment of the Smart Waste Management and Recycling System (SWMRS). The competitive landscape includes existing waste management technologies and systems which may limit market adoption, representing a risk of medium severity. Delays in development or integration with municipal infrastructure could impact project timelines and increase costs, also considered a medium-severity risk.</p><p>User acceptance poses a significant risk due to potential resistance to changes in established habits and workflows among residents and contractors, which is a high-severity concern. Usability issues or inadequate training may further hinder adoption. Technical challenges such as sensor reliability and data accuracy constitute additional medium-level implementation risks.</p><p>Privacy and security concerns regarding collected data require implementation of robust safeguards to maintain stakeholder trust. Mitigation strategies include comprehensive user engagement and education programs to foster buy-in, phased rollout plans to reduce operational disruptions, partnerships with trusted technology providers to ensure system reliability, and strict data privacy protocols compliant with regulatory standards.</p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><span>&lt;Summarize the major business risks associated with developing this product, such as marketplace competition, timing issues, user acceptance, implementation issues, or possible negative impacts on the business. Estimate the severity of the risks and identify any risk mitigation actions that could be taken.&gt;</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher"
+                  },
+                  "changedOn": "2025-09-30T05:53:22.873Z"
+                }
+              ]
             }
           ]
         },
@@ -185,7 +411,20 @@
             {
               "id": "61",
               "guid": "b9124659-da49-4523-b3a4-1103d6a4b54b",
-              "text": "<p><span>&lt;Record any assumptions that were made when conceiving the project and preparing this document. Note any major dependencies the project must rely upon for success, such as specific technologies, third-party vendors, development partners, or other business relationships.&gt;</span></p>"
+              "text": "<p>Several assumptions were made during the conception of the Smart Waste Management and Recycling System (SWMRS) project. It is assumed that a majority of residents possess smartphones capable of supporting the mobile application and maintain adequate internet connectivity. The availability and dependable functionality of IoT sensors for real-time bin monitoring is also presumed. Success of the system relies on seamless integration with existing municipal waste management databases and infrastructure.</p><p>Key dependencies include partnerships with technology vendors supplying IoT devices and GPS services, agreements with local businesses to support the recycling rewards program, and collaboration with municipal departments for data sharing and deployment. Furthermore, continual cooperation with contractors and city officials is essential to ensure operational alignment, end-user training, and effective rollout of the system.</p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><span>&lt;Record any assumptions that were made when conceiving the project and preparing this document. Note any major dependencies the project must rely upon for success, such as specific technologies, third-party vendors, development partners, or other business relationships.&gt;</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher"
+                  },
+                  "changedOn": "2025-09-30T05:54:41.940Z"
+                }
+              ]
             }
           ]
         }
@@ -199,7 +438,20 @@
         {
           "id": "63",
           "guid": "e97e2f40-721d-4881-97ee-5aed6e7faedb",
-          "text": "<p><span>&lt;The project scope defines the concept and range of the proposed solution. It’s also helpful to define what will not be included in the product. Clarifying the scope and limitations helps to establish realistic expectations of the many stakeholders. It also provides a reference frame against which proposed features and requirements changes can be evaluated. Proposed requirements that are out of scope for the envisioned product must be rejected, unless they are so beneficial that the scope should be enlarged to accommodate them (with accompanying changes in budget, schedule, and/or resources).&gt;</span></p>"
+          "text": "<p>Several assumptions were made during the conception of the Smart Waste Management and Recycling System (SWMRS) project. It is assumed that a majority of residents possess smartphones capable of supporting the mobile application and maintain adequate internet connectivity. The availability and dependable functionality of IoT sensors for real-time bin monitoring is also presumed. Success of the system relies on seamless integration with existing municipal waste management databases and infrastructure.</p><p>Key dependencies include partnerships with technology vendors supplying IoT devices and GPS services, agreements with local businesses to support the recycling rewards program, and collaboration with municipal departments for data sharing and deployment. Furthermore, continual cooperation with contractors and city officials is essential to ensure operational alignment, end-user training, and effective rollout of the system.</p>",
+          "history": [
+            {
+              "attributesChanged": {
+                "text": "<p><span>&lt;The project scope defines the concept and range of the proposed solution. It’s also helpful to define what will not be included in the product. Clarifying the scope and limitations helps to establish realistic expectations of the many stakeholders. It also provides a reference frame against which proposed features and requirements changes can be evaluated. Proposed requirements that are out of scope for the envisioned product must be rejected, unless they are so beneficial that the scope should be enlarged to accommodate them (with accompanying changes in budget, schedule, and/or resources).&gt;</span></p>"
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "ludhera17@mytru.ca",
+                "name": "Ajay Ludher"
+              },
+              "changedOn": "2025-09-30T05:58:28.610Z"
+            }
+          ]
         },
         {
           "id": "64",
@@ -209,7 +461,42 @@
             {
               "id": "65",
               "guid": "e0d8622e-87cd-4273-84b7-baffa0913e5c",
-              "text": "<p><span>&lt;Include a numbered list of the major features of the new product, emphasizing those <span>features<span>&nbsp;&nbsp;</span>that</span> distinguish it from previous or competing products. Specific user requirements and functional requirements developed later may be traced back to these features.&gt;</span></p>"
+              "text": "<p>Major Features for the Smart Waste Management and Recycling System (SWMRS) should include:</p><ol><li>Real-time bin monitoring using advanced IoT sensors to accurately detect fill levels and prevent overflow.</li><li>AI-powered route optimization to minimize fuel consumption, travel time, and missed pickups.</li><li>Mobile application designed to engage residents with recycling rewards, notifications, and simplified issue reporting.</li><li>Analytics dashboard enabling city officials and contractors to monitor performance, track costs, and ensure compliance.</li><li>Dynamic scheduling that adapts routes and collection times based on current real-time data.</li><li>Integration with municipal and external third-party systems for extended functionality and scalability.</li></ol>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><span>&lt;Include a numbered list of the major features of the new product, emphasizing those <span>features<span>&nbsp;&nbsp;</span>that</span> distinguish it from previous or competing products. Specific user requirements and functional requirements developed later may be traced back to these features.&gt;</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher"
+                  },
+                  "changedOn": "2025-09-30T06:08:52.140Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>Major Features for the&nbsp;</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher"
+                  },
+                  "changedOn": "2025-09-30T06:09:09.493Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>Major Features for the Smart Waste Management and Recycling System (SWMRS) should include:</p><p><br></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher"
+                  },
+                  "changedOn": "2025-09-30T06:09:40.777Z"
+                }
+              ]
             }
           ]
         },
