@@ -1,5 +1,9 @@
 {
   "id": "Assignment 1",
+  "description": "Vision and Scope Document",
+  "group": {
+    "name": "The Junkers"
+  },
   "documents": [
     "BRS.json"
   ],
