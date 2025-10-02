@@ -1,7 +1,7 @@
 {
   "id": "BRS",
   "guid": "70d7f8d6-8beb-46e4-b4f9-67a8c751cfa8",
-  "name": "Business Requirements Specification",
+  "name": "Vision and Scope Document",
   "lastId": 88,
   "createdOn": "2025-09-26T18:04:45.679Z",
   "createdBy": {
@@ -9,7 +9,7 @@
     "email": "ludhera17@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2025-10-02T07:19:32.323Z",
+  "lastChangedOn": "2025-10-02T07:26:41.067Z",
   "lastChangedBy": {
     "name": "Ajay Ludher",
     "email": "ludhera17@mytru.ca",
