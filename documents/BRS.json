@@ -2,14 +2,14 @@
   "id": "BRS",
   "guid": "70d7f8d6-8beb-46e4-b4f9-67a8c751cfa8",
   "name": "Vision and Scope Document",
-  "lastId": 88,
+  "lastId": 95,
   "createdOn": "2025-09-26T18:04:45.679Z",
   "createdBy": {
     "name": "Ajay Ludher",
     "email": "ludhera17@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2025-10-02T18:37:13.599Z",
+  "lastChangedOn": "2025-10-02T20:47:57.226Z",
   "lastChangedBy": {
     "name": "Ajay Ludher, Ivailo, Sarah",
     "email": "ludhera17@mytru.ca",
@@ -554,6 +554,413 @@
               ]
             }
           ]
+        },
+        {
+          "id": "89",
+          "guid": "307c44d6-1ea3-4c2b-aae9-0c28a3828452",
+          "heading": "Scope Representation",
+          "history": [
+            {
+              "affectedNodeId": "62",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "ludhera17@mytru.ca",
+                "name": "Ajay Ludher, Ivailo, Sarah"
+              },
+              "changedOn": "2025-10-02T20:16:08.680Z",
+              "docId": "BRS",
+              "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "heading": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "ludhera17@mytru.ca",
+                "name": "Ajay Ludher, Ivailo, Sarah"
+              },
+              "changedOn": "2025-10-02T20:16:19.247Z"
+            }
+          ],
+          "children": [
+            {
+              "id": "92",
+              "guid": "2b38a8e9-62cf-4700-a4b6-4a9b8bdf335d",
+              "heading": "Context Diagram",
+              "text": "<p>The Context Diagram outlines key interactions and data flows between SWMRS and external actors like residents, collection workers, city management, route database, smart bins, and supervisors.</p>",
+              "attachments": [
+                "BRS-92_1_Context Diagram.png"
+              ],
+              "history": [
+                {
+                  "affectedNodeId": "89",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher, Ivailo, Sarah"
+                  },
+                  "changedOn": "2025-10-02T20:33:11.166Z",
+                  "docId": "BRS",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher, Ivailo, Sarah"
+                  },
+                  "changedOn": "2025-10-02T20:33:20.450Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher, Ivailo, Sarah"
+                  },
+                  "changedOn": "2025-10-02T20:45:29.417Z"
+                },
+                {
+                  "addedAttachment": "BRS-92_1_Context Diagram.png",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher, Ivailo, Sarah"
+                  },
+                  "changedOn": "2025-10-02T20:45:39.755Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>The Context Diagram outlines key interactions and data flows between SWMRS and external actors like residents, collection workers, city management, route database, smart bins, and supervisors.</p><p><br></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher, Ivailo, Sarah"
+                  },
+                  "changedOn": "2025-10-02T20:45:46.729Z"
+                }
+              ]
+            },
+            {
+              "id": "93",
+              "guid": "fa3ffd3b-4a6d-47c3-aa35-a00d79a297f3",
+              "heading": "Ecosystem Map",
+              "text": "<p>The Ecosystem Map shows SWMRS in the wider urban waste management context, highlighting connections to IoT devices, municipal systems, recycling centers, reward platforms, vendors, residents, workers, and officials.</p>",
+              "attachments": [
+                "BRS-93_1_Ecosystem Map.png"
+              ],
+              "history": [
+                {
+                  "affectedNodeId": "89",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher, Ivailo, Sarah"
+                  },
+                  "changedOn": "2025-10-02T20:33:23.326Z",
+                  "docId": "BRS",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher, Ivailo, Sarah"
+                  },
+                  "changedOn": "2025-10-02T20:33:29.952Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher, Ivailo, Sarah"
+                  },
+                  "changedOn": "2025-10-02T20:46:14.192Z"
+                },
+                {
+                  "addedAttachment": "BRS-93_1_Ecosystem Map.png",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher, Ivailo, Sarah"
+                  },
+                  "changedOn": "2025-10-02T20:46:23.337Z"
+                }
+              ]
+            },
+            {
+              "id": "94",
+              "guid": "9577d034-49ea-41e2-a523-434466688e95",
+              "heading": "Feature Map",
+              "text": "<p>The Feature Tree breaks down SWMRS into core components with several Level 1 features and Level 2 sub-features.</p>",
+              "attachments": [
+                "BRS-94_1_Feature Tree _ Map.png"
+              ],
+              "history": [
+                {
+                  "affectedNodeId": "89",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher, Ivailo, Sarah"
+                  },
+                  "changedOn": "2025-10-02T20:33:46.122Z",
+                  "docId": "BRS",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher, Ivailo, Sarah"
+                  },
+                  "changedOn": "2025-10-02T20:33:49.602Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher, Ivailo, Sarah"
+                  },
+                  "changedOn": "2025-10-02T20:46:52.836Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>The Feature Tree breaks down SWMRS into core components,</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher, Ivailo, Sarah"
+                  },
+                  "changedOn": "2025-10-02T20:47:23.334Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>The Feature Tree breaks down SWMRS into core components, with Level 1&nbsp;</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher, Ivailo, Sarah"
+                  },
+                  "changedOn": "2025-10-02T20:47:49.290Z"
+                },
+                {
+                  "addedAttachment": "BRS-94_1_Feature Tree _ Map.png",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher, Ivailo, Sarah"
+                  },
+                  "changedOn": "2025-10-02T20:47:57.226Z"
+                }
+              ]
+            },
+            {
+              "id": "95",
+              "guid": "4c29a977-b1e4-4aba-b377-9c5483cb832f",
+              "heading": "Event List",
+              "text": "<p>The Event List outlines key triggers for SWMRS behaviours, detailing each event’s type, description, and system response. It explains reactions to sensor alerts, scheduled tasks, user requests, and reward processes for better operational insight.</p><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 25.0000%;\"><strong>Event</strong></td><td style=\"width: 25.0000%;\"><strong>Type</strong></td><td style=\"width: 25.0000%;\"><strong>Description</strong></td><td style=\"width: 25.0000%;\"><strong>System Response</strong></td></tr><tr><td style=\"width: 25.0000%;\">Bin reaches over 80% capacity<br><br></td><td style=\"width: 25.0000%;\">Signal</td><td style=\"width: 25.0000%;\">IoT sensor detects fill level exceeds threshold.<br><br></td><td style=\"width: 25.0000%;\">System alerts collection workers, updates routes accordingly.<br></td></tr><tr><td style=\"width: 25.0000%;\">Daily route planning time<br><br></td><td style=\"width: 25.0000%;\">Temporal</td><td style=\"width: 25.0000%;\">Scheduled time triggers route optimization process.<br><br></td><td style=\"width: 25.0000%;\">System generates optimized routes and sends updates to drivers.<br><br></td></tr><tr><td style=\"width: 25.0000%;\">Resident submits pickup request<br><br></td><td style=\"width: 25.0000%;\">User</td><td style=\"width: 25.0000%;\">Resident uses mobile app to request special pickup or report issue.<br><br></td><td style=\"width: 25.0000%;\">System logs request, schedules pickup, notifies collection team.<br></td></tr><tr><td style=\"width: 25.0000%;\">Reward redemption period<br><br></td><td style=\"width: 25.0000%;\">Temporal</td><td style=\"width: 25.0000%;\">Scheduled reward redemption period opens.<br><br></td><td style=\"width: 25.0000%;\">System processes reward redemptions and updates user accounts.<br><br></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "89",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher, Ivailo, Sarah"
+                  },
+                  "changedOn": "2025-10-02T20:33:53.107Z",
+                  "docId": "BRS",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher, Ivailo, Sarah"
+                  },
+                  "changedOn": "2025-10-02T20:34:07.166Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher, Ivailo, Sarah"
+                  },
+                  "changedOn": "2025-10-02T20:35:58.814Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>The Event List outlines key triggers for SWMRS behaviours, detailing each event’s type, description, and system response. It explains reactions to sensor alerts, scheduled tasks, user requests, and reward processes for better operational insight.</p><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td></tr><tr><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td></tr><tr><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td></tr><tr><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td></tr><tr><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher, Ivailo, Sarah"
+                  },
+                  "changedOn": "2025-10-02T20:36:50.318Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>The Event List outlines key triggers for SWMRS behaviours, detailing each event’s type, description, and system response. It explains reactions to sensor alerts, scheduled tasks, user requests, and reward processes for better operational insight.</p><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 25.0000%;\"><strong>Event</strong></td><td style=\"width: 25.0000%;\"><strong>Type</strong></td><td style=\"width: 25.0000%;\"><strong>Description</strong></td><td style=\"width: 25.0000%;\"><strong>System Response</strong></td></tr><tr><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td></tr><tr><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td></tr><tr><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td></tr><tr><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher, Ivailo, Sarah"
+                  },
+                  "changedOn": "2025-10-02T20:37:08.220Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>The Event List outlines key triggers for SWMRS behaviours, detailing each event’s type, description, and system response. It explains reactions to sensor alerts, scheduled tasks, user requests, and reward processes for better operational insight.</p><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 25.0000%;\"><strong>Event</strong></td><td style=\"width: 25.0000%;\"><strong>Type</strong></td><td style=\"width: 25.0000%;\"><strong>Description</strong></td><td style=\"width: 25.0000%;\"><strong>System Response</strong></td></tr><tr><td style=\"width: 25.0000%;\">Bin reaches over 80% capacity<br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td></tr><tr><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td></tr><tr><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td></tr><tr><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher, Ivailo, Sarah"
+                  },
+                  "changedOn": "2025-10-02T20:37:19.615Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>The Event List outlines key triggers for SWMRS behaviours, detailing each event’s type, description, and system response. It explains reactions to sensor alerts, scheduled tasks, user requests, and reward processes for better operational insight.</p><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 25.0000%;\"><strong>Event</strong></td><td style=\"width: 25.0000%;\"><strong>Type</strong></td><td style=\"width: 25.0000%;\"><strong>Description</strong></td><td style=\"width: 25.0000%;\"><strong>System Response</strong></td></tr><tr><td style=\"width: 25.0000%;\">Bin reaches over 80% capacity<br><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td></tr><tr><td style=\"width: 25.0000%;\">Daily route planning time<br><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td></tr><tr><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td></tr><tr><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher, Ivailo, Sarah"
+                  },
+                  "changedOn": "2025-10-02T20:37:28.677Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>The Event List outlines key triggers for SWMRS behaviours, detailing each event’s type, description, and system response. It explains reactions to sensor alerts, scheduled tasks, user requests, and reward processes for better operational insight.</p><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 25.0000%;\"><strong>Event</strong></td><td style=\"width: 25.0000%;\"><strong>Type</strong></td><td style=\"width: 25.0000%;\"><strong>Description</strong></td><td style=\"width: 25.0000%;\"><strong>System Response</strong></td></tr><tr><td style=\"width: 25.0000%;\">Bin reaches over 80% capacity<br><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td></tr><tr><td style=\"width: 25.0000%;\">Daily route planning time<br><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td></tr><tr><td style=\"width: 25.0000%;\">Resident submits pickup request<br><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td></tr><tr><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher, Ivailo, Sarah"
+                  },
+                  "changedOn": "2025-10-02T20:37:53.401Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>The Event List outlines key triggers for SWMRS behaviours, detailing each event’s type, description, and system response. It explains reactions to sensor alerts, scheduled tasks, user requests, and reward processes for better operational insight.</p><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 25.0000%;\"><strong>Event</strong></td><td style=\"width: 25.0000%;\"><strong>Type</strong></td><td style=\"width: 25.0000%;\"><strong>Description</strong></td><td style=\"width: 25.0000%;\"><strong>System Response</strong></td></tr><tr><td style=\"width: 25.0000%;\">Bin reaches over 80% capacity<br><br></td><td style=\"width: 25.0000%;\">Signal</td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td></tr><tr><td style=\"width: 25.0000%;\">Daily route planning time<br><br></td><td style=\"width: 25.0000%;\">Temporal</td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td></tr><tr><td style=\"width: 25.0000%;\">Resident submits pickup request<br><br></td><td style=\"width: 25.0000%;\">User</td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td></tr><tr><td style=\"width: 25.0000%;\">Reward redemption period<br><br></td><td style=\"width: 25.0000%;\">Temporal</td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher, Ivailo, Sarah"
+                  },
+                  "changedOn": "2025-10-02T20:38:03.081Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>The Event List outlines key triggers for SWMRS behaviours, detailing each event’s type, description, and system response. It explains reactions to sensor alerts, scheduled tasks, user requests, and reward processes for better operational insight.</p><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 25.0000%;\"><strong>Event</strong></td><td style=\"width: 25.0000%;\"><strong>Type</strong></td><td style=\"width: 25.0000%;\"><strong>Description</strong></td><td style=\"width: 25.0000%;\"><strong>System Response</strong></td></tr><tr><td style=\"width: 25.0000%;\">Bin reaches over 80% capacity<br><br></td><td style=\"width: 25.0000%;\">Signal</td><td style=\"width: 25.0000%;\">IoT sensor detects fill level exceeds threshold.<br><br></td><td style=\"width: 25.0000%;\"><br></td></tr><tr><td style=\"width: 25.0000%;\">Daily route planning time<br><br></td><td style=\"width: 25.0000%;\">Temporal</td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td></tr><tr><td style=\"width: 25.0000%;\">Resident submits pickup request<br><br></td><td style=\"width: 25.0000%;\">User</td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td></tr><tr><td style=\"width: 25.0000%;\">Reward redemption period<br><br></td><td style=\"width: 25.0000%;\">Temporal</td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher, Ivailo, Sarah"
+                  },
+                  "changedOn": "2025-10-02T20:38:10.995Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>The Event List outlines key triggers for SWMRS behaviours, detailing each event’s type, description, and system response. It explains reactions to sensor alerts, scheduled tasks, user requests, and reward processes for better operational insight.</p><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 25.0000%;\"><strong>Event</strong></td><td style=\"width: 25.0000%;\"><strong>Type</strong></td><td style=\"width: 25.0000%;\"><strong>Description</strong></td><td style=\"width: 25.0000%;\"><strong>System Response</strong></td></tr><tr><td style=\"width: 25.0000%;\">Bin reaches over 80% capacity<br><br></td><td style=\"width: 25.0000%;\">Signal</td><td style=\"width: 25.0000%;\">IoT sensor detects fill level exceeds threshold.<br><br></td><td style=\"width: 25.0000%;\"><br></td></tr><tr><td style=\"width: 25.0000%;\">Daily route planning time<br><br></td><td style=\"width: 25.0000%;\">Temporal</td><td style=\"width: 25.0000%;\">Scheduled time triggers route optimization process.<br><br></td><td style=\"width: 25.0000%;\"><br></td></tr><tr><td style=\"width: 25.0000%;\">Resident submits pickup request<br><br></td><td style=\"width: 25.0000%;\">User</td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td></tr><tr><td style=\"width: 25.0000%;\">Reward redemption period<br><br></td><td style=\"width: 25.0000%;\">Temporal</td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher, Ivailo, Sarah"
+                  },
+                  "changedOn": "2025-10-02T20:38:17.248Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>The Event List outlines key triggers for SWMRS behaviours, detailing each event’s type, description, and system response. It explains reactions to sensor alerts, scheduled tasks, user requests, and reward processes for better operational insight.</p><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 25.0000%;\"><strong>Event</strong></td><td style=\"width: 25.0000%;\"><strong>Type</strong></td><td style=\"width: 25.0000%;\"><strong>Description</strong></td><td style=\"width: 25.0000%;\"><strong>System Response</strong></td></tr><tr><td style=\"width: 25.0000%;\">Bin reaches over 80% capacity<br><br></td><td style=\"width: 25.0000%;\">Signal</td><td style=\"width: 25.0000%;\">IoT sensor detects fill level exceeds threshold.<br><br></td><td style=\"width: 25.0000%;\"><br></td></tr><tr><td style=\"width: 25.0000%;\">Daily route planning time<br><br></td><td style=\"width: 25.0000%;\">Temporal</td><td style=\"width: 25.0000%;\">Scheduled time triggers route optimization process.<br><br></td><td style=\"width: 25.0000%;\"><br></td></tr><tr><td style=\"width: 25.0000%;\">Resident submits pickup request<br><br></td><td style=\"width: 25.0000%;\">User</td><td style=\"width: 25.0000%;\">Resident uses mobile app to request special pickup or report issue.<br><br></td><td style=\"width: 25.0000%;\"><br></td></tr><tr><td style=\"width: 25.0000%;\">Reward redemption period<br><br></td><td style=\"width: 25.0000%;\">Temporal</td><td style=\"width: 25.0000%;\"><br></td><td style=\"width: 25.0000%;\"><br></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher, Ivailo, Sarah"
+                  },
+                  "changedOn": "2025-10-02T20:38:25.886Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>The Event List outlines key triggers for SWMRS behaviours, detailing each event’s type, description, and system response. It explains reactions to sensor alerts, scheduled tasks, user requests, and reward processes for better operational insight.</p><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 25.0000%;\"><strong>Event</strong></td><td style=\"width: 25.0000%;\"><strong>Type</strong></td><td style=\"width: 25.0000%;\"><strong>Description</strong></td><td style=\"width: 25.0000%;\"><strong>System Response</strong></td></tr><tr><td style=\"width: 25.0000%;\">Bin reaches over 80% capacity<br><br></td><td style=\"width: 25.0000%;\">Signal</td><td style=\"width: 25.0000%;\">IoT sensor detects fill level exceeds threshold.<br><br></td><td style=\"width: 25.0000%;\"><br></td></tr><tr><td style=\"width: 25.0000%;\">Daily route planning time<br><br></td><td style=\"width: 25.0000%;\">Temporal</td><td style=\"width: 25.0000%;\">Scheduled time triggers route optimization process.<br><br></td><td style=\"width: 25.0000%;\"><br></td></tr><tr><td style=\"width: 25.0000%;\">Resident submits pickup request<br><br></td><td style=\"width: 25.0000%;\">User</td><td style=\"width: 25.0000%;\">Resident uses mobile app to request special pickup or report issue.<br><br></td><td style=\"width: 25.0000%;\"><br></td></tr><tr><td style=\"width: 25.0000%;\">Reward redemption period<br><br></td><td style=\"width: 25.0000%;\">Temporal</td><td style=\"width: 25.0000%;\">Scheduled reward redemption period opens.<br><br></td><td style=\"width: 25.0000%;\"><br></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher, Ivailo, Sarah"
+                  },
+                  "changedOn": "2025-10-02T20:38:34.104Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>The Event List outlines key triggers for SWMRS behaviours, detailing each event’s type, description, and system response. It explains reactions to sensor alerts, scheduled tasks, user requests, and reward processes for better operational insight.</p><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 25.0000%;\"><strong>Event</strong></td><td style=\"width: 25.0000%;\"><strong>Type</strong></td><td style=\"width: 25.0000%;\"><strong>Description</strong></td><td style=\"width: 25.0000%;\"><strong>System Response</strong></td></tr><tr><td style=\"width: 25.0000%;\">Bin reaches over 80% capacity<br><br></td><td style=\"width: 25.0000%;\">Signal</td><td style=\"width: 25.0000%;\">IoT sensor detects fill level exceeds threshold.<br><br></td><td style=\"width: 25.0000%;\">System alerts collection workers, updates routes accordingly.<br></td></tr><tr><td style=\"width: 25.0000%;\">Daily route planning time<br><br></td><td style=\"width: 25.0000%;\">Temporal</td><td style=\"width: 25.0000%;\">Scheduled time triggers route optimization process.<br><br></td><td style=\"width: 25.0000%;\"><br></td></tr><tr><td style=\"width: 25.0000%;\">Resident submits pickup request<br><br></td><td style=\"width: 25.0000%;\">User</td><td style=\"width: 25.0000%;\">Resident uses mobile app to request special pickup or report issue.<br><br></td><td style=\"width: 25.0000%;\"><br></td></tr><tr><td style=\"width: 25.0000%;\">Reward redemption period<br><br></td><td style=\"width: 25.0000%;\">Temporal</td><td style=\"width: 25.0000%;\">Scheduled reward redemption period opens.<br><br></td><td style=\"width: 25.0000%;\"><br></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher, Ivailo, Sarah"
+                  },
+                  "changedOn": "2025-10-02T20:38:41.616Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>The Event List outlines key triggers for SWMRS behaviours, detailing each event’s type, description, and system response. It explains reactions to sensor alerts, scheduled tasks, user requests, and reward processes for better operational insight.</p><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 25.0000%;\"><strong>Event</strong></td><td style=\"width: 25.0000%;\"><strong>Type</strong></td><td style=\"width: 25.0000%;\"><strong>Description</strong></td><td style=\"width: 25.0000%;\"><strong>System Response</strong></td></tr><tr><td style=\"width: 25.0000%;\">Bin reaches over 80% capacity<br><br></td><td style=\"width: 25.0000%;\">Signal</td><td style=\"width: 25.0000%;\">IoT sensor detects fill level exceeds threshold.<br><br></td><td style=\"width: 25.0000%;\">System alerts collection workers, updates routes accordingly.<br></td></tr><tr><td style=\"width: 25.0000%;\">Daily route planning time<br><br></td><td style=\"width: 25.0000%;\">Temporal</td><td style=\"width: 25.0000%;\">Scheduled time triggers route optimization process.<br><br></td><td style=\"width: 25.0000%;\">System generates optimized routes and sends updates to drivers.<br><br></td></tr><tr><td style=\"width: 25.0000%;\">Resident submits pickup request<br><br></td><td style=\"width: 25.0000%;\">User</td><td style=\"width: 25.0000%;\">Resident uses mobile app to request special pickup or report issue.<br><br></td><td style=\"width: 25.0000%;\"><br></td></tr><tr><td style=\"width: 25.0000%;\">Reward redemption period<br><br></td><td style=\"width: 25.0000%;\">Temporal</td><td style=\"width: 25.0000%;\">Scheduled reward redemption period opens.<br><br></td><td style=\"width: 25.0000%;\"><br></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher, Ivailo, Sarah"
+                  },
+                  "changedOn": "2025-10-02T20:38:48.520Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>The Event List outlines key triggers for SWMRS behaviours, detailing each event’s type, description, and system response. It explains reactions to sensor alerts, scheduled tasks, user requests, and reward processes for better operational insight.</p><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 25.0000%;\"><strong>Event</strong></td><td style=\"width: 25.0000%;\"><strong>Type</strong></td><td style=\"width: 25.0000%;\"><strong>Description</strong></td><td style=\"width: 25.0000%;\"><strong>System Response</strong></td></tr><tr><td style=\"width: 25.0000%;\">Bin reaches over 80% capacity<br><br></td><td style=\"width: 25.0000%;\">Signal</td><td style=\"width: 25.0000%;\">IoT sensor detects fill level exceeds threshold.<br><br></td><td style=\"width: 25.0000%;\">System alerts collection workers, updates routes accordingly.<br></td></tr><tr><td style=\"width: 25.0000%;\">Daily route planning time<br><br></td><td style=\"width: 25.0000%;\">Temporal</td><td style=\"width: 25.0000%;\">Scheduled time triggers route optimization process.<br><br></td><td style=\"width: 25.0000%;\">System generates optimized routes and sends updates to drivers.<br><br></td></tr><tr><td style=\"width: 25.0000%;\">Resident submits pickup request<br><br></td><td style=\"width: 25.0000%;\">User</td><td style=\"width: 25.0000%;\">Resident uses mobile app to request special pickup or report issue.<br><br></td><td style=\"width: 25.0000%;\">System logs request, schedules pickup, notifies collection team.<br></td></tr><tr><td style=\"width: 25.0000%;\">Reward redemption period<br><br></td><td style=\"width: 25.0000%;\">Temporal</td><td style=\"width: 25.0000%;\">Scheduled reward redemption period opens.<br><br></td><td style=\"width: 25.0000%;\"><br></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher, Ivailo, Sarah"
+                  },
+                  "changedOn": "2025-10-02T20:39:55.240Z"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -617,7 +1024,7 @@
             {
               "id": "84",
               "guid": "486335a7-7a12-4037-b2a9-30294af6703b",
-              "text": "<p>The major stakeholder profiles for the SWMRS project are summarized below:</p><table><tbody><tr><td style=\"width:68.4pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Stakeholder</span></p></td><td style=\"width:67.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Roles</span></p></td><td style=\"width:85.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Interests</span></p></td><td style=\"width:90.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Influence</span></p></td><td style=\"width:90.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Needs</span></p></td><td style=\"width:72.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Concerns</span></p></td></tr><tr><td style=\"width:68.4pt;\"><p><span>Residents</span></p></td><td style=\"width:67.5pt;\"><p><span>Users of the mobile app and recycling bins</span></p></td><td style=\"width:85.5pt;\"><p><span>Convenient notifications, rewards, environmental impact</span></p></td><td style=\"width:90.0pt;\"><p><span>&nbsp;Medium</span></p></td><td style=\"width:90.0pt;\"><p><span>Easy-to-use app, timely information, incentive transparency</span></p></td><td style=\"width:72.0pt;\"><p><span>Privacy, app reliability</span></p></td></tr><tr><td style=\"width:68.4pt;\"><p><span>Collection Workers / Contractors</span></p></td><td style=\"width:67.5pt;\"><p><span>Operate collection vehicles and use system interface</span></p></td><td style=\"width:85.5pt;\"><p><span>Optimized routes, reduced workload, safety</span></p></td><td style=\"width:90.0pt;\"><p><span>&nbsp;High</span></p></td><td style=\"width:90.0pt;\"><p><span>Accurate real-time data, route updates</span></p></td><td style=\"width:72.0pt;\"><p><span>System downtime, usability</span></p></td></tr><tr><td style=\"width:68.4pt;\"><p><span>City Administrators / Sanitation Management Officials</span></p></td><td style=\"width:67.5pt;\"><p><span>Manage and monitor waste operations</span></p></td><td style=\"width:85.5pt;\"><p><span>Cost reduction, compliance, analytics</span></p></td><td style=\"width:90.0pt;\"><p><span>&nbsp;High</span></p></td><td style=\"width:90.0pt;\"><p><span>Detailed dashboards, reliable reporting</span></p></td><td style=\"width:72.0pt;\"><p><span>Data security, integration compatibility</span></p></td></tr><tr><td style=\"width:68.4pt;\">IT and Development Staff<br><br></td><td style=\"width:67.5pt;\">Develop, maintain, and support SWMRS IT systems and infrastructure<br></td><td style=\"width:85.5pt;\">System stability, ease of maintenance, scalability<br></td><td style=\"width:90.0pt;\">High</td><td style=\"width:90.0pt;\">Clear requirements, robust architecture, development tools<br></td><td style=\"width:72.0pt;\">Legacy system integration, resource constraints<br></td></tr></tbody></table>",
+              "text": "<p>The major stakeholder profiles for the SWMRS project are summarized below:</p><table><tbody><tr><td style=\"width:68.4pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\"><strong>Stakeholder</strong></span></p></td><td style=\"width:67.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\"><strong>Roles</strong></span></p></td><td style=\"width:85.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\"><strong>Interests</strong></span></p></td><td style=\"width:90.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\"><strong>Influence</strong></span></p></td><td style=\"width:90.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\"><strong>Needs</strong></span></p></td><td style=\"width:72.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\"><strong>Concerns</strong></span></p></td></tr><tr><td style=\"width:68.4pt;\"><p><span>Residents</span></p></td><td style=\"width:67.5pt;\"><p><span>Users of the mobile app and recycling bins</span></p></td><td style=\"width:85.5pt;\"><p><span>Convenient notifications, rewards, environmental impact</span></p></td><td style=\"width:90.0pt;\"><p><span>&nbsp;Medium</span></p></td><td style=\"width:90.0pt;\"><p><span>Easy-to-use app, timely information, incentive transparency</span></p></td><td style=\"width:72.0pt;\"><p><span>Privacy, app reliability</span></p></td></tr><tr><td style=\"width:68.4pt;\"><p><span>Collection Workers / Contractors</span></p></td><td style=\"width:67.5pt;\"><p><span>Operate collection vehicles and use system interface</span></p></td><td style=\"width:85.5pt;\"><p><span>Optimized routes, reduced workload, safety</span></p></td><td style=\"width:90.0pt;\"><p><span>&nbsp;High</span></p></td><td style=\"width:90.0pt;\"><p><span>Accurate real-time data, route updates</span></p></td><td style=\"width:72.0pt;\"><p><span>System downtime, usability</span></p></td></tr><tr><td style=\"width:68.4pt;\"><p><span>City Sanitation Management Administrators / Supervisors</span></p></td><td style=\"width:67.5pt;\"><p><span>Manage and monitor waste operations</span></p></td><td style=\"width:85.5pt;\"><p><span>Cost reduction, compliance, analytics</span></p></td><td style=\"width:90.0pt;\"><p><span>&nbsp;High</span></p></td><td style=\"width:90.0pt;\"><p><span>Detailed dashboards, reliable reporting</span></p></td><td style=\"width:72.0pt;\"><p><span>Data security, integration compatibility</span></p></td></tr><tr><td style=\"width:68.4pt;\">IT and Development Staff<br><br></td><td style=\"width:67.5pt;\">Develop, maintain, and support SWMRS IT systems and infrastructure<br></td><td style=\"width:85.5pt;\">System stability, ease of maintenance, scalability<br></td><td style=\"width:90.0pt;\">High</td><td style=\"width:90.0pt;\">Clear requirements, robust architecture, development tools<br></td><td style=\"width:72.0pt;\">Legacy system integration, resource constraints<br></td></tr></tbody></table>",
               "history": [
                 {
                   "attributesChanged": {
@@ -926,6 +1333,28 @@
                     "name": "Ajay Ludher, Ivailo, Sarah"
                   },
                   "changedOn": "2025-10-02T18:34:48.736Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>The major stakeholder profiles for the SWMRS project are summarized below:</p><table><tbody><tr><td style=\"width:68.4pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Stakeholder</span></p></td><td style=\"width:67.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Roles</span></p></td><td style=\"width:85.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Interests</span></p></td><td style=\"width:90.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Influence</span></p></td><td style=\"width:90.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Needs</span></p></td><td style=\"width:72.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Concerns</span></p></td></tr><tr><td style=\"width:68.4pt;\"><p><span>Residents</span></p></td><td style=\"width:67.5pt;\"><p><span>Users of the mobile app and recycling bins</span></p></td><td style=\"width:85.5pt;\"><p><span>Convenient notifications, rewards, environmental impact</span></p></td><td style=\"width:90.0pt;\"><p><span>&nbsp;Medium</span></p></td><td style=\"width:90.0pt;\"><p><span>Easy-to-use app, timely information, incentive transparency</span></p></td><td style=\"width:72.0pt;\"><p><span>Privacy, app reliability</span></p></td></tr><tr><td style=\"width:68.4pt;\"><p><span>Collection Workers / Contractors</span></p></td><td style=\"width:67.5pt;\"><p><span>Operate collection vehicles and use system interface</span></p></td><td style=\"width:85.5pt;\"><p><span>Optimized routes, reduced workload, safety</span></p></td><td style=\"width:90.0pt;\"><p><span>&nbsp;High</span></p></td><td style=\"width:90.0pt;\"><p><span>Accurate real-time data, route updates</span></p></td><td style=\"width:72.0pt;\"><p><span>System downtime, usability</span></p></td></tr><tr><td style=\"width:68.4pt;\"><p><span>City Administrators / Sanitation Management Officials</span></p></td><td style=\"width:67.5pt;\"><p><span>Manage and monitor waste operations</span></p></td><td style=\"width:85.5pt;\"><p><span>Cost reduction, compliance, analytics</span></p></td><td style=\"width:90.0pt;\"><p><span>&nbsp;High</span></p></td><td style=\"width:90.0pt;\"><p><span>Detailed dashboards, reliable reporting</span></p></td><td style=\"width:72.0pt;\"><p><span>Data security, integration compatibility</span></p></td></tr><tr><td style=\"width:68.4pt;\">IT and Development Staff<br><br></td><td style=\"width:67.5pt;\">Develop, maintain, and support SWMRS IT systems and infrastructure<br></td><td style=\"width:85.5pt;\">System stability, ease of maintenance, scalability<br></td><td style=\"width:90.0pt;\">High</td><td style=\"width:90.0pt;\">Clear requirements, robust architecture, development tools<br></td><td style=\"width:72.0pt;\">Legacy system integration, resource constraints<br></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher, Ivailo, Sarah"
+                  },
+                  "changedOn": "2025-10-02T20:17:46.489Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>The major stakeholder profiles for the SWMRS project are summarized below:</p><table><tbody><tr><td style=\"width:68.4pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Stakeholder</span></p></td><td style=\"width:67.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Roles</span></p></td><td style=\"width:85.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Interests</span></p></td><td style=\"width:90.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Influence</span></p></td><td style=\"width:90.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Needs</span></p></td><td style=\"width:72.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Concerns</span></p></td></tr><tr><td style=\"width:68.4pt;\"><p><span>Residents</span></p></td><td style=\"width:67.5pt;\"><p><span>Users of the mobile app and recycling bins</span></p></td><td style=\"width:85.5pt;\"><p><span>Convenient notifications, rewards, environmental impact</span></p></td><td style=\"width:90.0pt;\"><p><span>&nbsp;Medium</span></p></td><td style=\"width:90.0pt;\"><p><span>Easy-to-use app, timely information, incentive transparency</span></p></td><td style=\"width:72.0pt;\"><p><span>Privacy, app reliability</span></p></td></tr><tr><td style=\"width:68.4pt;\"><p><span>Collection Workers / Contractors</span></p></td><td style=\"width:67.5pt;\"><p><span>Operate collection vehicles and use system interface</span></p></td><td style=\"width:85.5pt;\"><p><span>Optimized routes, reduced workload, safety</span></p></td><td style=\"width:90.0pt;\"><p><span>&nbsp;High</span></p></td><td style=\"width:90.0pt;\"><p><span>Accurate real-time data, route updates</span></p></td><td style=\"width:72.0pt;\"><p><span>System downtime, usability</span></p></td></tr><tr><td style=\"width:68.4pt;\"><p><span>City Sanitation Management Administrators / Supervisors</span></p></td><td style=\"width:67.5pt;\"><p><span>Manage and monitor waste operations</span></p></td><td style=\"width:85.5pt;\"><p><span>Cost reduction, compliance, analytics</span></p></td><td style=\"width:90.0pt;\"><p><span>&nbsp;High</span></p></td><td style=\"width:90.0pt;\"><p><span>Detailed dashboards, reliable reporting</span></p></td><td style=\"width:72.0pt;\"><p><span>Data security, integration compatibility</span></p></td></tr><tr><td style=\"width:68.4pt;\">IT and Development Staff<br><br></td><td style=\"width:67.5pt;\">Develop, maintain, and support SWMRS IT systems and infrastructure<br></td><td style=\"width:85.5pt;\">System stability, ease of maintenance, scalability<br></td><td style=\"width:90.0pt;\">High</td><td style=\"width:90.0pt;\">Clear requirements, robust architecture, development tools<br></td><td style=\"width:72.0pt;\">Legacy system integration, resource constraints<br></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher, Ivailo, Sarah"
+                  },
+                  "changedOn": "2025-10-02T20:40:05.337Z"
                 }
               ]
             }
@@ -939,7 +1368,7 @@
             {
               "id": "86",
               "guid": "a71537a2-bf04-41d3-b5e3-538a1cd86857",
-              "text": "<p>This table outlines the priorities for the Smart Waste Management and Recycling System (SWMRS) project, balancing requirements, schedule, and budget by identifying key drivers, constraints, and allowable flexibility.</p><table><tbody><tr><td style=\"width:104.4pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Dimension</span></p></td><td style=\"width:112.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Driver<br>&nbsp;(state objective)</span></p></td><td style=\"width:117.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Constraint<br>&nbsp;(state limits)</span></p></td><td style=\"width:144.9pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Degree of Freedom<br>&nbsp;(state allowable range)</span></p></td></tr><tr><td style=\"width:104.4pt;\"><p><span>Schedule</span></p></td><td style=\"width:112.5pt;\"><p>Deliver release 1.0 by October 1, 2025; release 1.1 by December 1, 2025</p><p><br></p></td><td style=\"width:117.0pt;\"><p><span>Fixed deadlines with minimal room for delay</span></p></td><td style=\"width:144.9pt;\"><p><span>Strict adherence required; rescheduling only for critical issues</span></p></td></tr><tr><td style=\"width:104.4pt;\"><p><span>Features</span></p></td><td style=\"width:112.5pt;\"><p><span>Include 70–80% of high-priority features in release 1.0</span></p><p><br></p></td><td style=\"width:117.0pt;\"><p><span>Limited development time and resources</span></p></td><td style=\"width:144.9pt;\"><p>Balance between scope and quality, defer lower-priority features</p></td></tr><tr><td style=\"width:104.4pt;\"><p><span>Quality</span></p></td><td style=\"width:112.5pt;\"><p><span>Achieve 90–95% user acceptance for release 1.0; 95–98% for release 1.1</span></p><p><br></p></td><td style=\"width:117.0pt;\"><p><span>Must meet regulatory and usability standards</span></p></td><td style=\"width:144.9pt;\"><p>Iterative improvement possible within test/release cycles</p></td></tr><tr><td style=\"width:104.4pt;\"><p><span>Staff</span></p></td><td style=\"width:112.5pt;\"><p><span>Team capped at 1 Product Owner, 1 Business Analyst, 6 Developers, 3 Testers</span></p><p><br></p></td><td style=\"width:117.0pt;\">Hiring or cross-training only as budget allows</td><td style=\"width:144.9pt;\"><p><span>Occasional contractor involvement for surge capacity</span></p></td></tr><tr><td style=\"width:104.4pt;\"><p><span>Cost</span></p></td><td style=\"width:112.5pt;\"><p><span>Max budget overrun of 15% permitted before sponsor review</span></p><p><br></p></td><td style=\"width:117.0pt;\"><p><span>Fixed overall funding; additional funds require approval</span></p></td><td style=\"width:144.9pt;\"><p><span>Minor overruns possible with justification and sponsor consent</span></p></td></tr></tbody></table>",
+              "text": "<p>This table outlines the priorities for the Smart Waste Management and Recycling System (SWMRS) project, balancing requirements, schedule, and budget by identifying key drivers, constraints, and allowable flexibility.</p><table><tbody><tr><td style=\"width:104.4pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\"><strong>Dimension</strong></span></p></td><td style=\"width:112.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\"><strong>Driver<br>&nbsp;(state objective)</strong></span></p></td><td style=\"width:117.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\"><strong>Constraint<br>&nbsp;(state limits)</strong></span></p></td><td style=\"width:144.9pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\"><strong>Degree of Freedom<br>&nbsp;(state allowable range)</strong></span></p></td></tr><tr><td style=\"width:104.4pt;\"><p><span>Schedule</span></p></td><td style=\"width:112.5pt;\"><p>Deliver release 1.0 by October 1, 2025; release 1.1 by December 1, 2025</p><p><br></p></td><td style=\"width:117.0pt;\"><p><span>Fixed deadlines with minimal room for delay</span></p></td><td style=\"width:144.9pt;\"><p><span>Strict adherence required; rescheduling only for critical issues</span></p></td></tr><tr><td style=\"width:104.4pt;\"><p><span>Features</span></p></td><td style=\"width:112.5pt;\"><p><span>Include 70–80% of high-priority features in release 1.0</span></p><p><br></p></td><td style=\"width:117.0pt;\"><p><span>Limited development time and resources</span></p></td><td style=\"width:144.9pt;\"><p>Balance between scope and quality, defer lower-priority features</p></td></tr><tr><td style=\"width:104.4pt;\"><p><span>Quality</span></p></td><td style=\"width:112.5pt;\"><p><span>Achieve 90–95% user acceptance for release 1.0; 95–98% for release 1.1</span></p><p><br></p></td><td style=\"width:117.0pt;\"><p><span>Must meet regulatory and usability standards</span></p></td><td style=\"width:144.9pt;\"><p>Iterative improvement possible within test/release cycles</p></td></tr><tr><td style=\"width:104.4pt;\"><p><span>Staff</span></p></td><td style=\"width:112.5pt;\"><p><span>Team capped at 1 Product Owner, 1 Business Analyst, 6 Developers, 3 Testers</span></p><p><br></p></td><td style=\"width:117.0pt;\">Hiring or cross-training only as budget allows</td><td style=\"width:144.9pt;\"><p><span>Occasional contractor involvement for surge capacity</span></p></td></tr><tr><td style=\"width:104.4pt;\"><p><span>Cost</span></p></td><td style=\"width:112.5pt;\"><p><span>Max budget overrun of 15% permitted before sponsor review</span></p><p><br></p></td><td style=\"width:117.0pt;\"><p><span>Fixed overall funding; additional funds require approval</span></p></td><td style=\"width:144.9pt;\"><p><span>Minor overruns possible with justification and sponsor consent</span></p></td></tr></tbody></table>",
               "history": [
                 {
                   "attributesChanged": {
@@ -1127,6 +1556,17 @@
                     "name": "Ajay Ludher"
                   },
                   "changedOn": "2025-10-02T17:43:32.715Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>This table outlines the priorities for the Smart Waste Management and Recycling System (SWMRS) project, balancing requirements, schedule, and budget by identifying key drivers, constraints, and allowable flexibility.</p><table><tbody><tr><td style=\"width:104.4pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Dimension</span></p></td><td style=\"width:112.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Driver<br>&nbsp;(state objective)</span></p></td><td style=\"width:117.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Constraint<br>&nbsp;(state limits)</span></p></td><td style=\"width:144.9pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Degree of Freedom<br>&nbsp;(state allowable range)</span></p></td></tr><tr><td style=\"width:104.4pt;\"><p><span>Schedule</span></p></td><td style=\"width:112.5pt;\"><p>Deliver release 1.0 by October 1, 2025; release 1.1 by December 1, 2025</p><p><br></p></td><td style=\"width:117.0pt;\"><p><span>Fixed deadlines with minimal room for delay</span></p></td><td style=\"width:144.9pt;\"><p><span>Strict adherence required; rescheduling only for critical issues</span></p></td></tr><tr><td style=\"width:104.4pt;\"><p><span>Features</span></p></td><td style=\"width:112.5pt;\"><p><span>Include 70–80% of high-priority features in release 1.0</span></p><p><br></p></td><td style=\"width:117.0pt;\"><p><span>Limited development time and resources</span></p></td><td style=\"width:144.9pt;\"><p>Balance between scope and quality, defer lower-priority features</p></td></tr><tr><td style=\"width:104.4pt;\"><p><span>Quality</span></p></td><td style=\"width:112.5pt;\"><p><span>Achieve 90–95% user acceptance for release 1.0; 95–98% for release 1.1</span></p><p><br></p></td><td style=\"width:117.0pt;\"><p><span>Must meet regulatory and usability standards</span></p></td><td style=\"width:144.9pt;\"><p>Iterative improvement possible within test/release cycles</p></td></tr><tr><td style=\"width:104.4pt;\"><p><span>Staff</span></p></td><td style=\"width:112.5pt;\"><p><span>Team capped at 1 Product Owner, 1 Business Analyst, 6 Developers, 3 Testers</span></p><p><br></p></td><td style=\"width:117.0pt;\">Hiring or cross-training only as budget allows</td><td style=\"width:144.9pt;\"><p><span>Occasional contractor involvement for surge capacity</span></p></td></tr><tr><td style=\"width:104.4pt;\"><p><span>Cost</span></p></td><td style=\"width:112.5pt;\"><p><span>Max budget overrun of 15% permitted before sponsor review</span></p><p><br></p></td><td style=\"width:117.0pt;\"><p><span>Fixed overall funding; additional funds require approval</span></p></td><td style=\"width:144.9pt;\"><p><span>Minor overruns possible with justification and sponsor consent</span></p></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher, Ivailo, Sarah"
+                  },
+                  "changedOn": "2025-10-02T20:40:13.082Z"
                 }
               ]
             }
