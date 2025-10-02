@@ -9,9 +9,9 @@
     "email": "ludhera17@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2025-10-02T20:47:57.226Z",
+  "lastChangedOn": "2025-10-02T21:09:44.319Z",
   "lastChangedBy": {
-    "name": "Ajay Ludher, Ivailo, Sarah",
+    "name": "Ajay Ludher",
     "email": "ludhera17@mytru.ca",
     "company": "Thompson Rivers University"
   },
@@ -20,6 +20,7 @@
       "id": "32",
       "guid": "d23d5a0e-11fb-4cd3-9d59-f972fd39ad5f",
       "heading": "Business Requirements",
+      "section": true,
       "children": [
         {
           "id": "33",
@@ -1651,9 +1652,6 @@
       ],
       "default": true
     }
-  },
-  "properties": {
-    "Version 1.0": "Approved"
   },
   "metadata": {
     "format": "2.20"
