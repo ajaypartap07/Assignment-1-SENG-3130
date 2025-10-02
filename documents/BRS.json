@@ -9,9 +9,9 @@
     "email": "ludhera17@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2025-10-02T07:33:45.712Z",
+  "lastChangedOn": "2025-10-02T18:37:13.599Z",
   "lastChangedBy": {
-    "name": "Ajay Ludher",
+    "name": "Ajay Ludher, Ivailo, Sarah",
     "email": "ludhera17@mytru.ca",
     "company": "Thompson Rivers University"
   },
@@ -94,7 +94,7 @@
             {
               "id": "37",
               "guid": "17da4d3a-3c2b-42dc-bd8b-6e781b4f3229",
-              "text": "<p>At present, the waste management setup struggles with low recycling involvement, routes that often skip pickups, and bins that overflow from irregular servicing. The city depends a lot on manual reports and complaints from residents to manage issues, which makes coordinating drivers and tracking performance tough without real-time information. If this situation remains unaddressed, costs will keep climbing, environmental problems will grow, and residents will stay frustrated with city services. SWMRS offers a way forward by adding sensor alerts, GPS for better route planning, a mobile app for reporting, and rewards to motivate recycling. With these changes, the system will run more smoothly, save money, improve how drivers work, and raise resident satisfaction, paving the way for a more sustainable city.</p>",
+              "text": "<p>The current waste management system faces significant challenges including low resident participation in recycling, inconsistent waste collection routes leading to missed pickups, and bins frequently overflowing due to irregular servicing. Heavy reliance on manual complaint reporting hampers efficient coordination and performance tracking, creating operational inefficiencies and increasing costs. If unaddressed, these issues contribute to rising expenses, declining resident satisfaction, and escalating environmental harm.</p><p>The Smart Waste Management and Recycling System (SWMRS) proposes a comprehensive solution by integrating IoT-based sensor alerts to monitor bin status in real time, GPS-enhanced route optimization for collection vehicles, and a resident-facing mobile app offering easy issue reporting and incentivized recycling participation.</p><p>These advances aim to enhance operational smoothness, reduce expenditure, improve driver effectiveness, and increase community engagement, thereby supporting the city’s sustainability goals and improving quality of life for residents.</p>",
               "history": [
                 {
                   "attributesChanged": {
@@ -117,6 +117,17 @@
                     "name": "Ajay Ludher"
                   },
                   "changedOn": "2025-09-30T05:09:14.864Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>At present, the waste management setup struggles with low recycling involvement, routes that often skip pickups, and bins that overflow from irregular servicing. The city depends a lot on manual reports and complaints from residents to manage issues, which makes coordinating drivers and tracking performance tough without real-time information. If this situation remains unaddressed, costs will keep climbing, environmental problems will grow, and residents will stay frustrated with city services. SWMRS offers a way forward by adding sensor alerts, GPS for better route planning, a mobile app for reporting, and rewards to motivate recycling. With these changes, the system will run more smoothly, save money, improve how drivers work, and raise resident satisfaction, paving the way for a more sustainable city.</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher"
+                  },
+                  "changedOn": "2025-10-02T17:11:29.666Z"
                 }
               ]
             }
@@ -198,7 +209,7 @@
             {
               "id": "51",
               "guid": "a00f55b1-e62d-4182-a297-61a5cfc4a4a1",
-              "text": "<p><strong><span style=\"color:windowtext;\">For&nbsp;</span></strong>city administrators, sanitation staff, waste collection contractors, and residents</p>",
+              "text": "<p><strong><span style=\"color:windowtext;\">For&nbsp;</span></strong>city administrators, sanitation staff, waste collection contractors, and residents <strong>w</strong><strong><span style=\"color:windowtext;\">ho </span></strong>require an efficient, cost-effective, and environmentally sustainable waste management solution, <strong><span style=\"color:windowtext;\">the&nbsp;</span></strong>Smart Waste Management and Recycling System (SWMRS) <strong><span style=\"color:windowtext;\">is </span></strong><span style=\"color:windowtext;\">a comprehensive, IoT-enabled smart waste management system <strong><span style=\"color:windowtext;\">that&nbsp;</span></strong>provides real-time data integration, optimized route planning, and resident engagement tools to reduce costs, improve service reliability, and increase recycling rates. <strong><span style=\"color:windowtext;\">Unlike</span></strong><span style=\"color:windowtext;\"> current manual and fixed-schedule waste collection processes, <strong><span style=\"color:windowtext;\">our product</span></strong><span style=\"color:windowtext;\"> SWMRS utilizes sensor technology, dynamic routing, and rewards programs to deliver measurable operational efficiencies and environmental benefits.</span></span></span></p>",
               "history": [
                 {
                   "attributesChanged": {
@@ -221,158 +232,72 @@
                     "name": "Ajay Ludher"
                   },
                   "changedOn": "2025-09-30T05:44:24.234Z"
-                }
-              ]
-            },
-            {
-              "id": "52",
-              "guid": "0ba3fe82-dc13-4dcd-8ee2-ed48d3d5cf6f",
-              "text": "<p><strong><span style=\"color:windowtext;\">Who<span>&nbsp;</span></span></strong>require an efficient, cost-effective, and environmentally sustainable waste management solution,</p>",
-              "history": [
-                {
-                  "attributesChanged": {
-                    "text": "<p><strong><span style=\"color:windowtext;\">Who<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></strong><span style=\"color:windowtext;\">statement of the need or opportunity</span></p>"
-                  },
-                  "changedBy": {
-                    "company": "Thompson Rivers University",
-                    "email": "ludhera17@mytru.ca",
-                    "name": "Ajay Ludher"
-                  },
-                  "changedOn": "2025-09-30T05:38:54.310Z"
                 },
                 {
                   "attributesChanged": {
-                    "text": "<p><strong><span style=\"color:windowtext;\">Who<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span></strong>require an efficient, cost-effective, and environmentally sustainable waste management solution,</p>"
+                    "text": "<p><strong><span style=\"color:windowtext;\">For&nbsp;</span></strong>city administrators, sanitation staff, waste collection contractors, and residents</p>"
                   },
                   "changedBy": {
                     "company": "Thompson Rivers University",
                     "email": "ludhera17@mytru.ca",
-                    "name": "Ajay Ludher"
+                    "name": "Ajay Ludher, Ivailo, Sarah"
                   },
-                  "changedOn": "2025-09-30T05:44:19.171Z"
-                }
-              ]
-            },
-            {
-              "id": "53",
-              "guid": "39d908ba-432e-41f7-b6e0-95166d6419d6",
-              "text": "<p><strong><span style=\"color:windowtext;\">The&nbsp;</span></strong>Smart Waste Management and Recycling System (SWMRS)</p>",
-              "history": [
-                {
-                  "attributesChanged": {
-                    "text": "<p><strong><span style=\"color:windowtext;\">The<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></strong><span style=\"color:windowtext;\">product name</span></p>"
-                  },
-                  "changedBy": {
-                    "company": "Thompson Rivers University",
-                    "email": "ludhera17@mytru.ca",
-                    "name": "Ajay Ludher"
-                  },
-                  "changedOn": "2025-09-30T05:39:08.816Z"
+                  "changedOn": "2025-10-02T18:35:11.906Z"
                 },
                 {
                   "attributesChanged": {
-                    "text": "<p><strong><span style=\"color:windowtext;\">The<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span></strong>Smart Waste Management and Recycling System (SWMRS)</p>"
+                    "text": "<p><strong><span style=\"color:windowtext;\">For&nbsp;</span></strong>city administrators, sanitation staff, waste collection contractors, and residents&nbsp;<strong><span style=\"color:windowtext;\">Who&nbsp;</span></strong>require an efficient, cost-effective, and environmentally sustainable waste management solution,&nbsp;</p>"
                   },
                   "changedBy": {
                     "company": "Thompson Rivers University",
                     "email": "ludhera17@mytru.ca",
-                    "name": "Ajay Ludher"
+                    "name": "Ajay Ludher, Ivailo, Sarah"
                   },
-                  "changedOn": "2025-09-30T05:44:10.797Z"
-                }
-              ]
-            },
-            {
-              "id": "54",
-              "guid": "f1892338-fb7f-4813-8618-b1483651acc0",
-              "text": "<p><strong><span style=\"color:windowtext;\">Is&nbsp;</span></strong><span style=\"color:windowtext;\">a comprehensive, IoT-enabled smart waste management system</span></p>",
-              "history": [
-                {
-                  "attributesChanged": {
-                    "text": "<p><strong><span style=\"color:windowtext;\">Is<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></strong><span style=\"color:windowtext;\">product category</span></p>"
-                  },
-                  "changedBy": {
-                    "company": "Thompson Rivers University",
-                    "email": "ludhera17@mytru.ca",
-                    "name": "Ajay Ludher"
-                  },
-                  "changedOn": "2025-09-30T05:39:26.230Z"
+                  "changedOn": "2025-10-02T18:35:20.178Z"
                 },
                 {
                   "attributesChanged": {
-                    "text": "<p><strong><span style=\"color:windowtext;\">Is<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span></strong><span style=\"color:windowtext;\">a comprehensive, IoT-enabled smart waste management system</span></p>"
+                    "text": "<p><strong><span style=\"color:windowtext;\">For&nbsp;</span></strong>city administrators, sanitation staff, waste collection contractors, and residents&nbsp;<strong><span style=\"color:windowtext;\">Who&nbsp;</span></strong>require an efficient, cost-effective, and environmentally sustainable waste management solution,&nbsp;<strong><span style=\"color:windowtext;\">The&nbsp;</span></strong>Smart Waste Management and Recycling System (SWMRS)</p>"
                   },
                   "changedBy": {
                     "company": "Thompson Rivers University",
                     "email": "ludhera17@mytru.ca",
-                    "name": "Ajay Ludher"
+                    "name": "Ajay Ludher, Ivailo, Sarah"
                   },
-                  "changedOn": "2025-09-30T05:44:06.518Z"
-                }
-              ]
-            },
-            {
-              "id": "55",
-              "guid": "9bd457c6-5947-4caa-8d05-68cbd6f6330a",
-              "text": "<p><strong><span style=\"color:windowtext;\">That<span>&nbsp;</span></span></strong>provides real-time data integration, optimized route planning, and resident engagement tools to reduce costs, improve service reliability, and increase recycling rates.</p>",
-              "history": [
-                {
-                  "attributesChanged": {
-                    "text": "<p><strong><span style=\"color:windowtext;\">That<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></strong><span style=\"color:windowtext;\">major capabilities, key benefit, compelling reason to buy or use</span></p>"
-                  },
-                  "changedBy": {
-                    "company": "Thompson Rivers University",
-                    "email": "ludhera17@mytru.ca",
-                    "name": "Ajay Ludher"
-                  },
-                  "changedOn": "2025-09-30T05:41:48.740Z"
+                  "changedOn": "2025-10-02T18:35:30.069Z"
                 },
                 {
                   "attributesChanged": {
-                    "text": "<p><strong><span style=\"color:windowtext;\">That<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span></strong>provides real-time data integration, optimized route planning, and resident engagement tools to reduce costs, improve service reliability, and increase recycling rates.</p>"
+                    "text": "<p><strong><span style=\"color:windowtext;\">For&nbsp;</span></strong>city administrators, sanitation staff, waste collection contractors, and residents&nbsp;<strong><span style=\"color:windowtext;\">Who&nbsp;</span></strong>require an efficient, cost-effective, and environmentally sustainable waste management solution,&nbsp;<strong><span style=\"color:windowtext;\">The&nbsp;</span></strong>Smart Waste Management and Recycling System (SWMRS)&nbsp;<strong><span style=\"color:windowtext;\">Is </span></strong><span style=\"color:windowtext;\">a comprehensive, IoT-enabled smart waste management system</span></p>"
                   },
                   "changedBy": {
                     "company": "Thompson Rivers University",
                     "email": "ludhera17@mytru.ca",
-                    "name": "Ajay Ludher"
+                    "name": "Ajay Ludher, Ivailo, Sarah"
                   },
-                  "changedOn": "2025-09-30T05:44:01.765Z"
-                }
-              ]
-            },
-            {
-              "id": "56",
-              "guid": "c20496a0-b26f-4673-b0e3-3b6b273e1f0b",
-              "text": "<p><strong><span style=\"color:windowtext;\">Unlike</span></strong><span style=\"color:windowtext;\"><span> </span>current manual and fixed-schedule waste collection processes,</span></p>",
-              "history": [
+                  "changedOn": "2025-10-02T18:35:42.799Z"
+                },
                 {
                   "attributesChanged": {
-                    "text": "<p><strong><span style=\"color:windowtext;\">Unlike</span></strong><span style=\"color:windowtext;\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>primary competitive alternative, current system, current business process</span></p>"
+                    "text": "<p><strong><span style=\"color:windowtext;\">For&nbsp;</span></strong>city administrators, sanitation staff, waste collection contractors, and residents&nbsp;<strong><span style=\"color:windowtext;\">Who&nbsp;</span></strong>require an efficient, cost-effective, and environmentally sustainable waste management solution,&nbsp;<strong><span style=\"color:windowtext;\">The&nbsp;</span></strong>Smart Waste Management and Recycling System (SWMRS)&nbsp;<strong><span style=\"color:windowtext;\">Is </span></strong><span style=\"color:windowtext;\">a comprehensive, IoT-enabled smart waste management system&nbsp;<strong><span style=\"color:windowtext;\">That&nbsp;</span></strong>provides real-time data integration, optimized route planning, and resident engagement tools to reduce costs, improve service reliability, and increase recycling rates.</span></p>"
                   },
                   "changedBy": {
                     "company": "Thompson Rivers University",
                     "email": "ludhera17@mytru.ca",
-                    "name": "Ajay Ludher"
+                    "name": "Ajay Ludher, Ivailo, Sarah"
                   },
-                  "changedOn": "2025-09-30T05:43:51.858Z"
-                }
-              ]
-            },
-            {
-              "id": "57",
-              "guid": "5e04b34f-6c20-4e72-aa15-39e8a5f233c9",
-              "text": "<p><strong><span style=\"color:windowtext;\">Our product</span></strong><span style=\"color:windowtext;\"><span> SWMRS utilizes sensor technology, dynamic routing, and rewards programs to deliver measurable operational efficiencies and environmental benefits.</span></span></p>",
-              "history": [
+                  "changedOn": "2025-10-02T18:35:54.453Z"
+                },
                 {
                   "attributesChanged": {
-                    "text": "<p><strong><span style=\"color:windowtext;\">Our product</span></strong><span style=\"color:windowtext;\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>statement of primary differentiation and advantages of new product</span><span style=\"color:windowtext;\">&gt;</span></p>"
+                    "text": "<p><strong><span style=\"color:windowtext;\">For&nbsp;</span></strong>city administrators, sanitation staff, waste collection contractors, and residents&nbsp;<strong><span style=\"color:windowtext;\">Who&nbsp;</span></strong>require an efficient, cost-effective, and environmentally sustainable waste management solution,&nbsp;<strong><span style=\"color:windowtext;\">The&nbsp;</span></strong>Smart Waste Management and Recycling System (SWMRS)&nbsp;<strong><span style=\"color:windowtext;\">Is </span></strong><span style=\"color:windowtext;\">a comprehensive, IoT-enabled smart waste management system&nbsp;<strong><span style=\"color:windowtext;\">That&nbsp;</span></strong>provides real-time data integration, optimized route planning, and resident engagement tools to reduce costs, improve service reliability, and increase recycling rates.&nbsp;<strong><span style=\"color:windowtext;\">Unlike</span></strong><span style=\"color:windowtext;\"> current manual and fixed-schedule waste collection processes,&nbsp;</span></span></p>"
                   },
                   "changedBy": {
                     "company": "Thompson Rivers University",
                     "email": "ludhera17@mytru.ca",
-                    "name": "Ajay Ludher"
+                    "name": "Ajay Ludher, Ivailo, Sarah"
                   },
-                  "changedOn": "2025-09-30T05:45:00.577Z"
+                  "changedOn": "2025-10-02T18:36:46.638Z"
                 }
               ]
             }
@@ -411,7 +336,7 @@
             {
               "id": "61",
               "guid": "b9124659-da49-4523-b3a4-1103d6a4b54b",
-              "text": "<p>Several assumptions were made during the conception of the Smart Waste Management and Recycling System (SWMRS) project. It is assumed that a majority of residents possess smartphones capable of supporting the mobile application and maintain adequate internet connectivity. The availability and dependable functionality of IoT sensors for real-time bin monitoring is also presumed. Success of the system relies on seamless integration with existing municipal waste management databases and infrastructure.</p><p>Key dependencies include partnerships with technology vendors supplying IoT devices and GPS services, agreements with local businesses to support the recycling rewards program, and collaboration with municipal departments for data sharing and deployment. Furthermore, continual cooperation with contractors and city officials is essential to ensure operational alignment, end-user training, and effective rollout of the system.</p>",
+              "text": "<p>The following assumptions and dependencies underpin the development and success of the Smart Waste Management and Recycling System (SWMRS). These factors are based on the project’s conception and requirements elicitation.</p><ol><li>Assumptions<ul><li>A majority of residents possess smartphones capable of supporting the mobile application and maintain adequate internet connectivity.</li><li>IoT sensors are readily available and function reliably for real-time bin monitoring.</li><li>The system can seamlessly integrate with existing municipal waste management databases and infrastructure.</li><li>Users (residents, contractors, and officials) will adopt the system with minimal resistance following training.</li></ul></li><li>Dependencies<ul><li>Partnerships with technology vendors for supplying IoT devices, GPS services, and related hardware.</li><li>Agreements with local businesses to support the recycling rewards program and incentives.</li><li>Collaboration with municipal departments for data sharing, deployment, and integration with city systems.</li><li>Continual cooperation with contractors and city officials to ensure operational alignment, end-user training, and effective rollout.</li></ul></li></ol>",
               "history": [
                 {
                   "attributesChanged": {
@@ -423,6 +348,17 @@
                     "name": "Ajay Ludher"
                   },
                   "changedOn": "2025-09-30T05:54:41.940Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>Several assumptions were made during the conception of the Smart Waste Management and Recycling System (SWMRS) project. It is assumed that a majority of residents possess smartphones capable of supporting the mobile application and maintain adequate internet connectivity. The availability and dependable functionality of IoT sensors for real-time bin monitoring is also presumed. Success of the system relies on seamless integration with existing municipal waste management databases and infrastructure.</p><p>Key dependencies include partnerships with technology vendors supplying IoT devices and GPS services, agreements with local businesses to support the recycling rewards program, and collaboration with municipal departments for data sharing and deployment. Furthermore, continual cooperation with contractors and city officials is essential to ensure operational alignment, end-user training, and effective rollout of the system.</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher"
+                  },
+                  "changedOn": "2025-10-02T17:26:58.539Z"
                 }
               ]
             }
@@ -681,7 +617,7 @@
             {
               "id": "84",
               "guid": "486335a7-7a12-4037-b2a9-30294af6703b",
-              "text": "<p>The major stakeholder profiles for the SWMRS project are summarized below:</p><table><tbody><tr><td style=\"width:68.4pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Stakeholder</span></p></td><td style=\"width:67.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Roles</span></p></td><td style=\"width:85.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Interests</span></p></td><td style=\"width:90.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Influence</span></p></td><td style=\"width:90.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Needs</span></p></td><td style=\"width:72.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Concerns</span></p></td></tr><tr><td style=\"width:68.4pt;\"><p><span>Residents</span></p></td><td style=\"width:67.5pt;\"><p><span>Users of the mobile app and recycling bins</span></p></td><td style=\"width:85.5pt;\"><p><span>Convenient notifications, rewards, environmental impact</span></p></td><td style=\"width:90.0pt;\"><p><span>&nbsp;Medium</span></p></td><td style=\"width:90.0pt;\"><p><span>Easy-to-use app, timely information, incentive transparency</span></p></td><td style=\"width:72.0pt;\"><p><span>Privacy, app reliability</span></p></td></tr><tr><td style=\"width:68.4pt;\"><p><span>Collection Workers / Contractors</span></p></td><td style=\"width:67.5pt;\"><p><span>Operate collection vehicles and use system interface</span></p></td><td style=\"width:85.5pt;\"><p><span>Optimized routes, reduced workload, safety</span></p></td><td style=\"width:90.0pt;\"><p><span>&nbsp;High</span></p></td><td style=\"width:90.0pt;\"><p><span>Accurate real-time data, route updates</span></p></td><td style=\"width:72.0pt;\"><p><span>System downtime, usability</span></p></td></tr><tr><td style=\"width:68.4pt;\"><p><span>City Administrators / Officials</span></p></td><td style=\"width:67.5pt;\"><p><span>Manage and monitor waste operations</span></p></td><td style=\"width:85.5pt;\"><p><span>Cost reduction, compliance, analytics</span></p></td><td style=\"width:90.0pt;\"><p><span>&nbsp;High</span></p></td><td style=\"width:90.0pt;\"><p><span>Detailed dashboards, reliable reporting</span></p></td><td style=\"width:72.0pt;\"><p><span>Data security, integration compatibility</span></p></td></tr><tr><td style=\"width:68.4pt;\">IT and Development Staff<br><br></td><td style=\"width:67.5pt;\">Develop, maintain, and support SWMRS IT systems and infrastructure<br></td><td style=\"width:85.5pt;\">System stability, ease of maintenance, scalability<br></td><td style=\"width:90.0pt;\">High</td><td style=\"width:90.0pt;\">Clear requirements, robust architecture, development tools<br></td><td style=\"width:72.0pt;\">Legacy system integration, resource constraints<br></td></tr></tbody></table>",
+              "text": "<p>The major stakeholder profiles for the SWMRS project are summarized below:</p><table><tbody><tr><td style=\"width:68.4pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Stakeholder</span></p></td><td style=\"width:67.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Roles</span></p></td><td style=\"width:85.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Interests</span></p></td><td style=\"width:90.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Influence</span></p></td><td style=\"width:90.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Needs</span></p></td><td style=\"width:72.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Concerns</span></p></td></tr><tr><td style=\"width:68.4pt;\"><p><span>Residents</span></p></td><td style=\"width:67.5pt;\"><p><span>Users of the mobile app and recycling bins</span></p></td><td style=\"width:85.5pt;\"><p><span>Convenient notifications, rewards, environmental impact</span></p></td><td style=\"width:90.0pt;\"><p><span>&nbsp;Medium</span></p></td><td style=\"width:90.0pt;\"><p><span>Easy-to-use app, timely information, incentive transparency</span></p></td><td style=\"width:72.0pt;\"><p><span>Privacy, app reliability</span></p></td></tr><tr><td style=\"width:68.4pt;\"><p><span>Collection Workers / Contractors</span></p></td><td style=\"width:67.5pt;\"><p><span>Operate collection vehicles and use system interface</span></p></td><td style=\"width:85.5pt;\"><p><span>Optimized routes, reduced workload, safety</span></p></td><td style=\"width:90.0pt;\"><p><span>&nbsp;High</span></p></td><td style=\"width:90.0pt;\"><p><span>Accurate real-time data, route updates</span></p></td><td style=\"width:72.0pt;\"><p><span>System downtime, usability</span></p></td></tr><tr><td style=\"width:68.4pt;\"><p><span>City Administrators / Sanitation Management Officials</span></p></td><td style=\"width:67.5pt;\"><p><span>Manage and monitor waste operations</span></p></td><td style=\"width:85.5pt;\"><p><span>Cost reduction, compliance, analytics</span></p></td><td style=\"width:90.0pt;\"><p><span>&nbsp;High</span></p></td><td style=\"width:90.0pt;\"><p><span>Detailed dashboards, reliable reporting</span></p></td><td style=\"width:72.0pt;\"><p><span>Data security, integration compatibility</span></p></td></tr><tr><td style=\"width:68.4pt;\">IT and Development Staff<br><br></td><td style=\"width:67.5pt;\">Develop, maintain, and support SWMRS IT systems and infrastructure<br></td><td style=\"width:85.5pt;\">System stability, ease of maintenance, scalability<br></td><td style=\"width:90.0pt;\">High</td><td style=\"width:90.0pt;\">Clear requirements, robust architecture, development tools<br></td><td style=\"width:72.0pt;\">Legacy system integration, resource constraints<br></td></tr></tbody></table>",
               "history": [
                 {
                   "attributesChanged": {
@@ -946,6 +882,50 @@
                     "name": "Ajay Ludher"
                   },
                   "changedOn": "2025-10-02T07:12:18.625Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>The major stakeholder profiles for the SWMRS project are summarized below:</p><table><tbody><tr><td style=\"width:68.4pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Stakeholder</span></p></td><td style=\"width:67.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Roles</span></p></td><td style=\"width:85.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Interests</span></p></td><td style=\"width:90.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Influence</span></p></td><td style=\"width:90.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Needs</span></p></td><td style=\"width:72.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Concerns</span></p></td></tr><tr><td style=\"width:68.4pt;\"><p><span>Residents</span></p></td><td style=\"width:67.5pt;\"><p><span>Users of the mobile app and recycling bins</span></p></td><td style=\"width:85.5pt;\"><p><span>Convenient notifications, rewards, environmental impact</span></p></td><td style=\"width:90.0pt;\"><p><span>&nbsp;Medium</span></p></td><td style=\"width:90.0pt;\"><p><span>Easy-to-use app, timely information, incentive transparency</span></p></td><td style=\"width:72.0pt;\"><p><span>Privacy, app reliability</span></p></td></tr><tr><td style=\"width:68.4pt;\"><p><span>Collection Workers / Contractors</span></p></td><td style=\"width:67.5pt;\"><p><span>Operate collection vehicles and use system interface</span></p></td><td style=\"width:85.5pt;\"><p><span>Optimized routes, reduced workload, safety</span></p></td><td style=\"width:90.0pt;\"><p><span>&nbsp;High</span></p></td><td style=\"width:90.0pt;\"><p><span>Accurate real-time data, route updates</span></p></td><td style=\"width:72.0pt;\"><p><span>System downtime, usability</span></p></td></tr><tr><td style=\"width:68.4pt;\"><p><span>City Administrators / Officials</span></p></td><td style=\"width:67.5pt;\"><p><span>Manage and monitor waste operations</span></p></td><td style=\"width:85.5pt;\"><p><span>Cost reduction, compliance, analytics</span></p></td><td style=\"width:90.0pt;\"><p><span>&nbsp;High</span></p></td><td style=\"width:90.0pt;\"><p><span>Detailed dashboards, reliable reporting</span></p></td><td style=\"width:72.0pt;\"><p><span>Data security, integration compatibility</span></p></td></tr><tr><td style=\"width:68.4pt;\">IT and Development Staff<br><br></td><td style=\"width:67.5pt;\">Develop, maintain, and support SWMRS IT systems and infrastructure<br></td><td style=\"width:85.5pt;\">System stability, ease of maintenance, scalability<br></td><td style=\"width:90.0pt;\">High</td><td style=\"width:90.0pt;\">Clear requirements, robust architecture, development tools<br></td><td style=\"width:72.0pt;\">Legacy system integration, resource constraints<br></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher"
+                  },
+                  "changedOn": "2025-10-02T17:48:21.768Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>The major stakeholder profiles for the SWMRS project are summarized below:</p><table><tbody><tr><td style=\"width:68.4pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Stakeholder</span></p></td><td style=\"width:67.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Roles</span></p></td><td style=\"width:85.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Interests</span></p></td><td style=\"width:90.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Influence</span></p></td><td style=\"width:90.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Needs</span></p></td><td style=\"width:72.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Concerns</span></p></td></tr><tr><td style=\"width:68.4pt;\"><p><span>Residents</span></p></td><td style=\"width:67.5pt;\"><p><span>Users of the mobile app and recycling bins</span></p></td><td style=\"width:85.5pt;\"><p><span>Convenient notifications, rewards, environmental impact</span></p></td><td style=\"width:90.0pt;\"><p><span>&nbsp;Medium</span></p></td><td style=\"width:90.0pt;\"><p><span>Easy-to-use app, timely information, incentive transparency</span></p></td><td style=\"width:72.0pt;\"><p><span>Privacy, app reliability</span></p></td></tr><tr><td style=\"width:68.4pt;\"><p><span>Collection &nbsp;Workers / Contractors</span></p></td><td style=\"width:67.5pt;\"><p><span>Operate collection vehicles and use system interface</span></p></td><td style=\"width:85.5pt;\"><p><span>Optimized routes, reduced workload, safety</span></p></td><td style=\"width:90.0pt;\"><p><span>&nbsp;High</span></p></td><td style=\"width:90.0pt;\"><p><span>Accurate real-time data, route updates</span></p></td><td style=\"width:72.0pt;\"><p><span>System downtime, usability</span></p></td></tr><tr><td style=\"width:68.4pt;\"><p><span>City Administrators / Sanitation Management</span></p></td><td style=\"width:67.5pt;\"><p><span>Manage and monitor waste operations</span></p></td><td style=\"width:85.5pt;\"><p><span>Cost reduction, compliance, analytics</span></p></td><td style=\"width:90.0pt;\"><p><span>&nbsp;High</span></p></td><td style=\"width:90.0pt;\"><p><span>Detailed dashboards, reliable reporting</span></p></td><td style=\"width:72.0pt;\"><p><span>Data security, integration compatibility</span></p></td></tr><tr><td style=\"width:68.4pt;\">IT and Development Staff<br><br></td><td style=\"width:67.5pt;\">Develop, maintain, and support SWMRS IT systems and infrastructure<br></td><td style=\"width:85.5pt;\">System stability, ease of maintenance, scalability<br></td><td style=\"width:90.0pt;\">High</td><td style=\"width:90.0pt;\">Clear requirements, robust architecture, development tools<br></td><td style=\"width:72.0pt;\">Legacy system integration, resource constraints<br></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher"
+                  },
+                  "changedOn": "2025-10-02T17:48:45.072Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>The major stakeholder profiles for the SWMRS project are summarized below:</p><table><tbody><tr><td style=\"width:68.4pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Stakeholder</span></p></td><td style=\"width:67.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Roles</span></p></td><td style=\"width:85.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Interests</span></p></td><td style=\"width:90.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Influence</span></p></td><td style=\"width:90.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Needs</span></p></td><td style=\"width:72.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Concerns</span></p></td></tr><tr><td style=\"width:68.4pt;\"><p><span>Residents</span></p></td><td style=\"width:67.5pt;\"><p><span>Users of the mobile app and recycling bins</span></p></td><td style=\"width:85.5pt;\"><p><span>Convenient notifications, rewards, environmental impact</span></p></td><td style=\"width:90.0pt;\"><p><span>&nbsp;Medium</span></p></td><td style=\"width:90.0pt;\"><p><span>Easy-to-use app, timely information, incentive transparency</span></p></td><td style=\"width:72.0pt;\"><p><span>Privacy, app reliability</span></p></td></tr><tr><td style=\"width:68.4pt;\"><p><span>Collection Workers / Contractors</span></p></td><td style=\"width:67.5pt;\"><p><span>Operate collection vehicles and use system interface</span></p></td><td style=\"width:85.5pt;\"><p><span>Optimized routes, reduced workload, safety</span></p></td><td style=\"width:90.0pt;\"><p><span>&nbsp;High</span></p></td><td style=\"width:90.0pt;\"><p><span>Accurate real-time data, route updates</span></p></td><td style=\"width:72.0pt;\"><p><span>System downtime, usability</span></p></td></tr><tr><td style=\"width:68.4pt;\"><p><span>City Administrators / Sanitation Management Officials</span></p></td><td style=\"width:67.5pt;\"><p><span>Manage and monitor waste operations</span></p></td><td style=\"width:85.5pt;\"><p><span>Cost reduction, compliance, analytics</span></p></td><td style=\"width:90.0pt;\"><p><span>&nbsp;High</span></p></td><td style=\"width:90.0pt;\"><p><span>Detailed dashboards, reliable reporting</span></p></td><td style=\"width:72.0pt;\"><p><span>Data security, integration compatibility</span></p></td></tr><tr><td style=\"width:68.4pt;\">IT and Development Staff<br><br></td><td style=\"width:67.5pt;\">Develop, maintain, and support SWMRS IT systems and infrastructure<br></td><td style=\"width:85.5pt;\">System stability, ease of maintenance, scalability<br></td><td style=\"width:90.0pt;\">High</td><td style=\"width:90.0pt;\">Clear requirements, robust architecture, development tools<br></td><td style=\"width:72.0pt;\">Legacy system integration, resource constraints<br></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher, Ivailo, Sarah"
+                  },
+                  "changedOn": "2025-10-02T18:34:36.115Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>The major stakeholder profiles for the SWMRS project are summarized below:</p><table><tbody><tr><td style=\"width:68.4pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Stakeholder</span></p></td><td style=\"width:67.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Roles</span></p></td><td style=\"width:85.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Interests</span></p></td><td style=\"width:90.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Influence</span></p></td><td style=\"width:90.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Needs</span></p></td><td style=\"width:72.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Concerns</span></p></td></tr><tr><td style=\"width:68.4pt;\"><p><span>Residents</span></p></td><td style=\"width:67.5pt;\"><p><span>Users of the mobile app and recycling bins</span></p></td><td style=\"width:85.5pt;\"><p><span>Convenient notifications, rewards, environmental impactvegve</span></p></td><td style=\"width:90.0pt;\"><p><span>&nbsp;Medium</span></p></td><td style=\"width:90.0pt;\"><p><span>Easy-to-use app, timely information, incentive transparency</span></p></td><td style=\"width:72.0pt;\"><p><span>Privacy, app reliability</span></p></td></tr><tr><td style=\"width:68.4pt;\"><p><span>Collection Workers / Contractors</span></p></td><td style=\"width:67.5pt;\"><p><span>Operate collection vehicles and use system interface</span></p></td><td style=\"width:85.5pt;\"><p><span>Optimized routes, reduced workload, safety</span></p></td><td style=\"width:90.0pt;\"><p><span>&nbsp;High</span></p></td><td style=\"width:90.0pt;\"><p><span>Accurate real-time data, route updates</span></p></td><td style=\"width:72.0pt;\"><p><span>System downtime, usability</span></p></td></tr><tr><td style=\"width:68.4pt;\"><p><span>City Administrators / Sanitation Management Officials</span></p></td><td style=\"width:67.5pt;\"><p><span>Manage and monitor waste operations</span></p></td><td style=\"width:85.5pt;\"><p><span>Cost reduction, compliance, analytics</span></p></td><td style=\"width:90.0pt;\"><p><span>&nbsp;High</span></p></td><td style=\"width:90.0pt;\"><p><span>Detailed dashboards, reliable reporting</span></p></td><td style=\"width:72.0pt;\"><p><span>Data security, integration compatibility</span></p></td></tr><tr><td style=\"width:68.4pt;\">IT and Development Staff<br><br></td><td style=\"width:67.5pt;\">Develop, maintain, and support SWMRS IT systems and infrastructure<br></td><td style=\"width:85.5pt;\">System stability, ease of maintenance, scalability<br></td><td style=\"width:90.0pt;\">High</td><td style=\"width:90.0pt;\">Clear requirements, robust architecture, development tools<br></td><td style=\"width:72.0pt;\">Legacy system integration, resource constraints<br></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher, Ivailo, Sarah"
+                  },
+                  "changedOn": "2025-10-02T18:34:48.736Z"
                 }
               ]
             }
@@ -959,7 +939,7 @@
             {
               "id": "86",
               "guid": "a71537a2-bf04-41d3-b5e3-538a1cd86857",
-              "text": "<p>This table outlines the priorities for the Smart Waste Management and Recycling System (SWMRS) project, balancing requirements, schedule, and budget by identifying key drivers, constraints, and allowable flexibility.</p><table><tbody><tr><td style=\"width:104.4pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Dimension</span></p></td><td style=\"width:112.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Driver<br>&nbsp;(state objective)</span></p></td><td style=\"width:117.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Constraint<br>&nbsp;(state limits)</span></p></td><td style=\"width:144.9pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Degree of Freedom<br>&nbsp;(state allowable range)</span></p></td></tr><tr><td style=\"width:104.4pt;\"><p><span>Schedule</span></p></td><td style=\"width:112.5pt;\"><p>Deliver release 1.0 by October 1, 2025; release 1.1 by December 1, 2025</p></td><td style=\"width:117.0pt;\"><p><span>Fixed deadlines with minimal room for delay</span></p></td><td style=\"width:144.9pt;\"><p><span>Strict adherence required; rescheduling only for critical issues</span></p></td></tr><tr><td style=\"width:104.4pt;\"><p><span>Features</span></p></td><td style=\"width:112.5pt;\"><p><span>Include 70–80% of high-priority features in release 1.0</span></p></td><td style=\"width:117.0pt;\"><p><span>Limited development time and resources</span></p></td><td style=\"width:144.9pt;\"><p>Balance between scope and quality, defer lower-priority features</p></td></tr><tr><td style=\"width:104.4pt;\"><p><span>Quality</span></p></td><td style=\"width:112.5pt;\"><p><span>Achieve 90–95% user acceptance for release 1.0; 95–98% for release 1.1</span></p></td><td style=\"width:117.0pt;\"><p><span>Must meet regulatory and usability standards</span></p></td><td style=\"width:144.9pt;\"><p>Iterative improvement possible within test/release cycles</p></td></tr><tr><td style=\"width:104.4pt;\"><p><span>Staff</span></p></td><td style=\"width:112.5pt;\"><p><span>Team capped at 1 Product Owner, 1 Business Analyst, 6 Developers, 3 Testers</span></p></td><td style=\"width:117.0pt;\">Hiring or cross-training only as budget allows</td><td style=\"width:144.9pt;\"><p><span>Occasional contractor involvement for surge capacity</span></p></td></tr><tr><td style=\"width:104.4pt;\"><p><span>Cost</span></p></td><td style=\"width:112.5pt;\"><p><span>Max budget overrun of 15% permitted before sponsor review</span></p></td><td style=\"width:117.0pt;\"><p><span>Fixed overall funding; additional funds require approval</span></p></td><td style=\"width:144.9pt;\"><p><span>Minor overruns possible with justification and sponsor consent</span></p></td></tr></tbody></table>",
+              "text": "<p>This table outlines the priorities for the Smart Waste Management and Recycling System (SWMRS) project, balancing requirements, schedule, and budget by identifying key drivers, constraints, and allowable flexibility.</p><table><tbody><tr><td style=\"width:104.4pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Dimension</span></p></td><td style=\"width:112.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Driver<br>&nbsp;(state objective)</span></p></td><td style=\"width:117.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Constraint<br>&nbsp;(state limits)</span></p></td><td style=\"width:144.9pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Degree of Freedom<br>&nbsp;(state allowable range)</span></p></td></tr><tr><td style=\"width:104.4pt;\"><p><span>Schedule</span></p></td><td style=\"width:112.5pt;\"><p>Deliver release 1.0 by October 1, 2025; release 1.1 by December 1, 2025</p><p><br></p></td><td style=\"width:117.0pt;\"><p><span>Fixed deadlines with minimal room for delay</span></p></td><td style=\"width:144.9pt;\"><p><span>Strict adherence required; rescheduling only for critical issues</span></p></td></tr><tr><td style=\"width:104.4pt;\"><p><span>Features</span></p></td><td style=\"width:112.5pt;\"><p><span>Include 70–80% of high-priority features in release 1.0</span></p><p><br></p></td><td style=\"width:117.0pt;\"><p><span>Limited development time and resources</span></p></td><td style=\"width:144.9pt;\"><p>Balance between scope and quality, defer lower-priority features</p></td></tr><tr><td style=\"width:104.4pt;\"><p><span>Quality</span></p></td><td style=\"width:112.5pt;\"><p><span>Achieve 90–95% user acceptance for release 1.0; 95–98% for release 1.1</span></p><p><br></p></td><td style=\"width:117.0pt;\"><p><span>Must meet regulatory and usability standards</span></p></td><td style=\"width:144.9pt;\"><p>Iterative improvement possible within test/release cycles</p></td></tr><tr><td style=\"width:104.4pt;\"><p><span>Staff</span></p></td><td style=\"width:112.5pt;\"><p><span>Team capped at 1 Product Owner, 1 Business Analyst, 6 Developers, 3 Testers</span></p><p><br></p></td><td style=\"width:117.0pt;\">Hiring or cross-training only as budget allows</td><td style=\"width:144.9pt;\"><p><span>Occasional contractor involvement for surge capacity</span></p></td></tr><tr><td style=\"width:104.4pt;\"><p><span>Cost</span></p></td><td style=\"width:112.5pt;\"><p><span>Max budget overrun of 15% permitted before sponsor review</span></p><p><br></p></td><td style=\"width:117.0pt;\"><p><span>Fixed overall funding; additional funds require approval</span></p></td><td style=\"width:144.9pt;\"><p><span>Minor overruns possible with justification and sponsor consent</span></p></td></tr></tbody></table>",
               "history": [
                 {
                   "attributesChanged": {
@@ -1136,6 +1116,17 @@
                     "name": "Ajay Ludher"
                   },
                   "changedOn": "2025-10-02T06:56:17.010Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>This table outlines the priorities for the Smart Waste Management and Recycling System (SWMRS) project, balancing requirements, schedule, and budget by identifying key drivers, constraints, and allowable flexibility.</p><table><tbody><tr><td style=\"width:104.4pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Dimension</span></p></td><td style=\"width:112.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Driver<br>&nbsp;(state objective)</span></p></td><td style=\"width:117.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Constraint<br>&nbsp;(state limits)</span></p></td><td style=\"width:144.9pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Degree of Freedom<br>&nbsp;(state allowable range)</span></p></td></tr><tr><td style=\"width:104.4pt;\"><p><span>Schedule</span></p></td><td style=\"width:112.5pt;\"><p>Deliver release 1.0 by October 1, 2025; release 1.1 by December 1, 2025</p></td><td style=\"width:117.0pt;\"><p><span>Fixed deadlines with minimal room for delay</span></p></td><td style=\"width:144.9pt;\"><p><span>Strict adherence required; rescheduling only for critical issues</span></p></td></tr><tr><td style=\"width:104.4pt;\"><p><span>Features</span></p></td><td style=\"width:112.5pt;\"><p><span>Include 70–80% of high-priority features in release 1.0</span></p></td><td style=\"width:117.0pt;\"><p><span>Limited development time and resources</span></p></td><td style=\"width:144.9pt;\"><p>Balance between scope and quality, defer lower-priority features</p></td></tr><tr><td style=\"width:104.4pt;\"><p><span>Quality</span></p></td><td style=\"width:112.5pt;\"><p><span>Achieve 90–95% user acceptance for release 1.0; 95–98% for release 1.1</span></p></td><td style=\"width:117.0pt;\"><p><span>Must meet regulatory and usability standards</span></p></td><td style=\"width:144.9pt;\"><p>Iterative improvement possible within test/release cycles</p></td></tr><tr><td style=\"width:104.4pt;\"><p><span>Staff</span></p></td><td style=\"width:112.5pt;\"><p><span>Team capped at 1 Product Owner, 1 Business Analyst, 6 Developers, 3 Testers</span></p></td><td style=\"width:117.0pt;\">Hiring or cross-training only as budget allows</td><td style=\"width:144.9pt;\"><p><span>Occasional contractor involvement for surge capacity</span></p></td></tr><tr><td style=\"width:104.4pt;\"><p><span>Cost</span></p></td><td style=\"width:112.5pt;\"><p><span>Max budget overrun of 15% permitted before sponsor review</span></p></td><td style=\"width:117.0pt;\"><p><span>Fixed overall funding; additional funds require approval</span></p></td><td style=\"width:144.9pt;\"><p><span>Minor overruns possible with justification and sponsor consent</span></p></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher"
+                  },
+                  "changedOn": "2025-10-02T17:43:32.715Z"
                 }
               ]
             }
