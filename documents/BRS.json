@@ -9,7 +9,7 @@
     "email": "ludhera17@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2025-10-02T07:26:41.067Z",
+  "lastChangedOn": "2025-10-02T07:33:45.712Z",
   "lastChangedBy": {
     "name": "Ajay Ludher",
     "email": "ludhera17@mytru.ca",
@@ -1220,6 +1220,9 @@
       ],
       "default": true
     }
+  },
+  "properties": {
+    "Version 1.0": "Approved"
   },
   "metadata": {
     "format": "2.20"
