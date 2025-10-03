@@ -9,7 +9,7 @@
     "email": "ludhera17@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2025-10-02T21:09:44.319Z",
+  "lastChangedOn": "2025-10-03T06:13:55.416Z",
   "lastChangedBy": {
     "name": "Ajay Ludher",
     "email": "ludhera17@mytru.ca",
@@ -705,7 +705,7 @@
             {
               "id": "94",
               "guid": "9577d034-49ea-41e2-a523-434466688e95",
-              "heading": "Feature Map",
+              "heading": "Feature Tree",
               "text": "<p>The Feature Tree breaks down SWMRS into core components with several Level 1 features and Level 2 sub-features.</p>",
               "attachments": [
                 "BRS-94_1_Feature Tree _ Map.png"
@@ -774,6 +774,17 @@
                     "name": "Ajay Ludher, Ivailo, Sarah"
                   },
                   "changedOn": "2025-10-02T20:47:57.226Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": "Feature Map"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "ludhera17@mytru.ca",
+                    "name": "Ajay Ludher"
+                  },
+                  "changedOn": "2025-10-03T06:13:55.416Z"
                 }
               ]
             },
